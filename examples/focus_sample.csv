@@ -1,0 +1,545 @@
+ChargePeriodStart,ChargePeriodEnd,BilledCost,EffectiveCost,BillingCurrency,ProviderName,ServiceName,ServiceCategory,SubAccountName,RegionName,ResourceId,ResourceName,ChargeCategory,Tags
+2026-08-01T00:00:00Z,2026-08-02T00:00:00Z,335.3171,335.3171,USD,AWS,Amazon Elastic Compute Cloud,Compute,prod,us-east-1,i-0a91f3c2web,i-0a91f3c2web,Usage,"{""team"": ""web"", ""env"": ""prod""}"
+2026-08-01T00:00:00Z,2026-08-02T00:00:00Z,206.9764,206.9764,USD,AWS,Amazon Elastic Compute Cloud,Compute,prod,us-east-1,i-07c1e9a4api,i-07c1e9a4api,Usage,"{""team"": ""api"", ""env"": ""prod""}"
+2026-08-01T00:00:00Z,2026-08-02T00:00:00Z,73.2644,73.2644,USD,AWS,Amazon Elastic Compute Cloud,Compute,staging,us-east-1,i-0bb2d11ci,i-0bb2d11ci,Usage,{}
+2026-08-01T00:00:00Z,2026-08-02T00:00:00Z,219.8142,219.8142,USD,AWS,Amazon Relational Database Service,Databases,prod,us-east-1,orders-db,orders-db,Usage,"{""team"": ""api"", ""env"": ""prod""}"
+2026-08-01T00:00:00Z,2026-08-02T00:00:00Z,124.5402,124.5402,USD,AWS,Amazon Simple Storage Service,Storage,prod,us-east-1,media-bucket,media-bucket,Usage,"{""team"": ""web"", ""env"": ""prod""}"
+2026-08-01T00:00:00Z,2026-08-02T00:00:00Z,61.6963,61.6963,USD,AWS,Amazon Simple Storage Service,Storage,prod,us-east-1,logs-archive,logs-archive,Usage,{}
+2026-08-01T00:00:00Z,2026-08-02T00:00:00Z,161.5378,161.5378,USD,Microsoft,Azure Kubernetes Service,Compute,analytics,brazilsouth,aks-ml,aks-ml,Usage,"{""team"": ""data"", ""env"": ""prod""}"
+2026-08-01T00:00:00Z,2026-08-02T00:00:00Z,130.7474,130.7474,USD,Google Cloud,BigQuery,Analytics,analytics,us,warehouse,warehouse,Usage,"{""team"": ""data"", ""env"": ""prod""}"
+2026-08-01T00:00:00Z,2026-08-02T00:00:00Z,44.4378,44.4378,USD,Google Cloud,Cloud Storage,Storage,analytics,us,datalake,datalake,Usage,"{""team"": ""data""}"
+2026-08-01T00:00:00Z,2026-08-02T00:00:00Z,300.0000,300.0000,USD,AWS,Support,Other,analytics,us,,,Purchase,{}
+2026-08-01T00:00:00Z,2026-08-02T00:00:00Z,-150.0000,-150.0000,USD,AWS,Amazon Elastic Compute Cloud,Compute,analytics,us,,,Credit,{}
+2026-08-02T00:00:00Z,2026-08-03T00:00:00Z,303.3238,303.3238,USD,AWS,Amazon Elastic Compute Cloud,Compute,prod,us-east-1,i-0a91f3c2web,i-0a91f3c2web,Usage,"{""team"": ""web"", ""env"": ""prod""}"
+2026-08-02T00:00:00Z,2026-08-03T00:00:00Z,213.9160,213.9160,USD,AWS,Amazon Elastic Compute Cloud,Compute,prod,us-east-1,i-07c1e9a4api,i-07c1e9a4api,Usage,"{""team"": ""api"", ""env"": ""prod""}"
+2026-08-02T00:00:00Z,2026-08-03T00:00:00Z,76.0651,76.0651,USD,AWS,Amazon Elastic Compute Cloud,Compute,staging,us-east-1,i-0bb2d11ci,i-0bb2d11ci,Usage,{}
+2026-08-02T00:00:00Z,2026-08-03T00:00:00Z,212.5765,212.5765,USD,AWS,Amazon Relational Database Service,Databases,prod,us-east-1,orders-db,orders-db,Usage,"{""team"": ""api"", ""env"": ""prod""}"
+2026-08-02T00:00:00Z,2026-08-03T00:00:00Z,114.2177,114.2177,USD,AWS,Amazon Simple Storage Service,Storage,prod,us-east-1,media-bucket,media-bucket,Usage,"{""team"": ""web"", ""env"": ""prod""}"
+2026-08-02T00:00:00Z,2026-08-03T00:00:00Z,61.4389,61.4389,USD,AWS,Amazon Simple Storage Service,Storage,prod,us-east-1,logs-archive,logs-archive,Usage,{}
+2026-08-02T00:00:00Z,2026-08-03T00:00:00Z,153.0930,153.0930,USD,Microsoft,Azure Kubernetes Service,Compute,analytics,brazilsouth,aks-ml,aks-ml,Usage,"{""team"": ""data"", ""env"": ""prod""}"
+2026-08-02T00:00:00Z,2026-08-03T00:00:00Z,133.7379,133.7379,USD,Google Cloud,BigQuery,Analytics,analytics,us,warehouse,warehouse,Usage,"{""team"": ""data"", ""env"": ""prod""}"
+2026-08-02T00:00:00Z,2026-08-03T00:00:00Z,45.6427,45.6427,USD,Google Cloud,Cloud Storage,Storage,analytics,us,datalake,datalake,Usage,"{""team"": ""data""}"
+2026-08-03T00:00:00Z,2026-08-04T00:00:00Z,430.2986,430.2986,USD,AWS,Amazon Elastic Compute Cloud,Compute,prod,us-east-1,i-0a91f3c2web,i-0a91f3c2web,Usage,"{""team"": ""web"", ""env"": ""prod""}"
+2026-08-03T00:00:00Z,2026-08-04T00:00:00Z,257.8911,257.8911,USD,AWS,Amazon Elastic Compute Cloud,Compute,prod,us-east-1,i-07c1e9a4api,i-07c1e9a4api,Usage,"{""team"": ""api"", ""env"": ""prod""}"
+2026-08-03T00:00:00Z,2026-08-04T00:00:00Z,99.6485,99.6485,USD,AWS,Amazon Elastic Compute Cloud,Compute,staging,us-east-1,i-0bb2d11ci,i-0bb2d11ci,Usage,{}
+2026-08-03T00:00:00Z,2026-08-04T00:00:00Z,237.2915,237.2915,USD,AWS,Amazon Relational Database Service,Databases,prod,us-east-1,orders-db,orders-db,Usage,"{""team"": ""api"", ""env"": ""prod""}"
+2026-08-03T00:00:00Z,2026-08-04T00:00:00Z,116.9328,116.9328,USD,AWS,Amazon Simple Storage Service,Storage,prod,us-east-1,media-bucket,media-bucket,Usage,"{""team"": ""web"", ""env"": ""prod""}"
+2026-08-03T00:00:00Z,2026-08-04T00:00:00Z,56.6926,56.6926,USD,AWS,Amazon Simple Storage Service,Storage,prod,us-east-1,logs-archive,logs-archive,Usage,{}
+2026-08-03T00:00:00Z,2026-08-04T00:00:00Z,203.8993,203.8993,USD,Microsoft,Azure Kubernetes Service,Compute,analytics,brazilsouth,aks-ml,aks-ml,Usage,"{""team"": ""data"", ""env"": ""prod""}"
+2026-08-03T00:00:00Z,2026-08-04T00:00:00Z,136.3397,136.3397,USD,Google Cloud,BigQuery,Analytics,analytics,us,warehouse,warehouse,Usage,"{""team"": ""data"", ""env"": ""prod""}"
+2026-08-03T00:00:00Z,2026-08-04T00:00:00Z,42.0678,42.0678,USD,Google Cloud,Cloud Storage,Storage,analytics,us,datalake,datalake,Usage,"{""team"": ""data""}"
+2026-08-04T00:00:00Z,2026-08-05T00:00:00Z,383.5446,383.5446,USD,AWS,Amazon Elastic Compute Cloud,Compute,prod,us-east-1,i-0a91f3c2web,i-0a91f3c2web,Usage,"{""team"": ""web"", ""env"": ""prod""}"
+2026-08-04T00:00:00Z,2026-08-05T00:00:00Z,295.5677,295.5677,USD,AWS,Amazon Elastic Compute Cloud,Compute,prod,us-east-1,i-07c1e9a4api,i-07c1e9a4api,Usage,"{""team"": ""api"", ""env"": ""prod""}"
+2026-08-04T00:00:00Z,2026-08-05T00:00:00Z,96.5766,96.5766,USD,AWS,Amazon Elastic Compute Cloud,Compute,staging,us-east-1,i-0bb2d11ci,i-0bb2d11ci,Usage,{}
+2026-08-04T00:00:00Z,2026-08-05T00:00:00Z,241.3023,241.3023,USD,AWS,Amazon Relational Database Service,Databases,prod,us-east-1,orders-db,orders-db,Usage,"{""team"": ""api"", ""env"": ""prod""}"
+2026-08-04T00:00:00Z,2026-08-05T00:00:00Z,124.4109,124.4109,USD,AWS,Amazon Simple Storage Service,Storage,prod,us-east-1,media-bucket,media-bucket,Usage,"{""team"": ""web"", ""env"": ""prod""}"
+2026-08-04T00:00:00Z,2026-08-05T00:00:00Z,60.3478,60.3478,USD,AWS,Amazon Simple Storage Service,Storage,prod,us-east-1,logs-archive,logs-archive,Usage,{}
+2026-08-04T00:00:00Z,2026-08-05T00:00:00Z,204.3827,204.3827,USD,Microsoft,Azure Kubernetes Service,Compute,analytics,brazilsouth,aks-ml,aks-ml,Usage,"{""team"": ""data"", ""env"": ""prod""}"
+2026-08-04T00:00:00Z,2026-08-05T00:00:00Z,137.2792,137.2792,USD,Google Cloud,BigQuery,Analytics,analytics,us,warehouse,warehouse,Usage,"{""team"": ""data"", ""env"": ""prod""}"
+2026-08-04T00:00:00Z,2026-08-05T00:00:00Z,45.3747,45.3747,USD,Google Cloud,Cloud Storage,Storage,analytics,us,datalake,datalake,Usage,"{""team"": ""data""}"
+2026-08-05T00:00:00Z,2026-08-06T00:00:00Z,431.6089,431.6089,USD,AWS,Amazon Elastic Compute Cloud,Compute,prod,us-east-1,i-0a91f3c2web,i-0a91f3c2web,Usage,"{""team"": ""web"", ""env"": ""prod""}"
+2026-08-05T00:00:00Z,2026-08-06T00:00:00Z,285.3097,285.3097,USD,AWS,Amazon Elastic Compute Cloud,Compute,prod,us-east-1,i-07c1e9a4api,i-07c1e9a4api,Usage,"{""team"": ""api"", ""env"": ""prod""}"
+2026-08-05T00:00:00Z,2026-08-06T00:00:00Z,100.4979,100.4979,USD,AWS,Amazon Elastic Compute Cloud,Compute,staging,us-east-1,i-0bb2d11ci,i-0bb2d11ci,Usage,{}
+2026-08-05T00:00:00Z,2026-08-06T00:00:00Z,232.8466,232.8466,USD,AWS,Amazon Relational Database Service,Databases,prod,us-east-1,orders-db,orders-db,Usage,"{""team"": ""api"", ""env"": ""prod""}"
+2026-08-05T00:00:00Z,2026-08-06T00:00:00Z,123.9278,123.9278,USD,AWS,Amazon Simple Storage Service,Storage,prod,us-east-1,media-bucket,media-bucket,Usage,"{""team"": ""web"", ""env"": ""prod""}"
+2026-08-05T00:00:00Z,2026-08-06T00:00:00Z,55.6399,55.6399,USD,AWS,Amazon Simple Storage Service,Storage,prod,us-east-1,logs-archive,logs-archive,Usage,{}
+2026-08-05T00:00:00Z,2026-08-06T00:00:00Z,181.7281,181.7281,USD,Microsoft,Azure Kubernetes Service,Compute,analytics,brazilsouth,aks-ml,aks-ml,Usage,"{""team"": ""data"", ""env"": ""prod""}"
+2026-08-05T00:00:00Z,2026-08-06T00:00:00Z,135.2823,135.2823,USD,Google Cloud,BigQuery,Analytics,analytics,us,warehouse,warehouse,Usage,"{""team"": ""data"", ""env"": ""prod""}"
+2026-08-05T00:00:00Z,2026-08-06T00:00:00Z,41.9745,41.9745,USD,Google Cloud,Cloud Storage,Storage,analytics,us,datalake,datalake,Usage,"{""team"": ""data""}"
+2026-08-06T00:00:00Z,2026-08-07T00:00:00Z,392.4711,392.4711,USD,AWS,Amazon Elastic Compute Cloud,Compute,prod,us-east-1,i-0a91f3c2web,i-0a91f3c2web,Usage,"{""team"": ""web"", ""env"": ""prod""}"
+2026-08-06T00:00:00Z,2026-08-07T00:00:00Z,262.1249,262.1249,USD,AWS,Amazon Elastic Compute Cloud,Compute,prod,us-east-1,i-07c1e9a4api,i-07c1e9a4api,Usage,"{""team"": ""api"", ""env"": ""prod""}"
+2026-08-06T00:00:00Z,2026-08-07T00:00:00Z,91.6252,91.6252,USD,AWS,Amazon Elastic Compute Cloud,Compute,staging,us-east-1,i-0bb2d11ci,i-0bb2d11ci,Usage,{}
+2026-08-06T00:00:00Z,2026-08-07T00:00:00Z,234.9932,234.9932,USD,AWS,Amazon Relational Database Service,Databases,prod,us-east-1,orders-db,orders-db,Usage,"{""team"": ""api"", ""env"": ""prod""}"
+2026-08-06T00:00:00Z,2026-08-07T00:00:00Z,117.4048,117.4048,USD,AWS,Amazon Simple Storage Service,Storage,prod,us-east-1,media-bucket,media-bucket,Usage,"{""team"": ""web"", ""env"": ""prod""}"
+2026-08-06T00:00:00Z,2026-08-07T00:00:00Z,58.7537,58.7537,USD,AWS,Amazon Simple Storage Service,Storage,prod,us-east-1,logs-archive,logs-archive,Usage,{}
+2026-08-06T00:00:00Z,2026-08-07T00:00:00Z,181.1690,181.1690,USD,Microsoft,Azure Kubernetes Service,Compute,analytics,brazilsouth,aks-ml,aks-ml,Usage,"{""team"": ""data"", ""env"": ""prod""}"
+2026-08-06T00:00:00Z,2026-08-07T00:00:00Z,134.7803,134.7803,USD,Google Cloud,BigQuery,Analytics,analytics,us,warehouse,warehouse,Usage,"{""team"": ""data"", ""env"": ""prod""}"
+2026-08-06T00:00:00Z,2026-08-07T00:00:00Z,48.1439,48.1439,USD,Google Cloud,Cloud Storage,Storage,analytics,us,datalake,datalake,Usage,"{""team"": ""data""}"
+2026-08-07T00:00:00Z,2026-08-08T00:00:00Z,419.7111,419.7111,USD,AWS,Amazon Elastic Compute Cloud,Compute,prod,us-east-1,i-0a91f3c2web,i-0a91f3c2web,Usage,"{""team"": ""web"", ""env"": ""prod""}"
+2026-08-07T00:00:00Z,2026-08-08T00:00:00Z,284.8891,284.8891,USD,AWS,Amazon Elastic Compute Cloud,Compute,prod,us-east-1,i-07c1e9a4api,i-07c1e9a4api,Usage,"{""team"": ""api"", ""env"": ""prod""}"
+2026-08-07T00:00:00Z,2026-08-08T00:00:00Z,90.0013,90.0013,USD,AWS,Amazon Elastic Compute Cloud,Compute,staging,us-east-1,i-0bb2d11ci,i-0bb2d11ci,Usage,{}
+2026-08-07T00:00:00Z,2026-08-08T00:00:00Z,238.4319,238.4319,USD,AWS,Amazon Relational Database Service,Databases,prod,us-east-1,orders-db,orders-db,Usage,"{""team"": ""api"", ""env"": ""prod""}"
+2026-08-07T00:00:00Z,2026-08-08T00:00:00Z,113.5373,113.5373,USD,AWS,Amazon Simple Storage Service,Storage,prod,us-east-1,media-bucket,media-bucket,Usage,"{""team"": ""web"", ""env"": ""prod""}"
+2026-08-07T00:00:00Z,2026-08-08T00:00:00Z,58.8428,58.8428,USD,AWS,Amazon Simple Storage Service,Storage,prod,us-east-1,logs-archive,logs-archive,Usage,{}
+2026-08-07T00:00:00Z,2026-08-08T00:00:00Z,204.8815,204.8815,USD,Microsoft,Azure Kubernetes Service,Compute,analytics,brazilsouth,aks-ml,aks-ml,Usage,"{""team"": ""data"", ""env"": ""prod""}"
+2026-08-07T00:00:00Z,2026-08-08T00:00:00Z,143.1360,143.1360,USD,Google Cloud,BigQuery,Analytics,analytics,us,warehouse,warehouse,Usage,"{""team"": ""data"", ""env"": ""prod""}"
+2026-08-07T00:00:00Z,2026-08-08T00:00:00Z,45.4100,45.4100,USD,Google Cloud,Cloud Storage,Storage,analytics,us,datalake,datalake,Usage,"{""team"": ""data""}"
+2026-08-08T00:00:00Z,2026-08-09T00:00:00Z,337.6886,337.6886,USD,AWS,Amazon Elastic Compute Cloud,Compute,prod,us-east-1,i-0a91f3c2web,i-0a91f3c2web,Usage,"{""team"": ""web"", ""env"": ""prod""}"
+2026-08-08T00:00:00Z,2026-08-09T00:00:00Z,236.2878,236.2878,USD,AWS,Amazon Elastic Compute Cloud,Compute,prod,us-east-1,i-07c1e9a4api,i-07c1e9a4api,Usage,"{""team"": ""api"", ""env"": ""prod""}"
+2026-08-08T00:00:00Z,2026-08-09T00:00:00Z,79.3562,79.3562,USD,AWS,Amazon Elastic Compute Cloud,Compute,staging,us-east-1,i-0bb2d11ci,i-0bb2d11ci,Usage,{}
+2026-08-08T00:00:00Z,2026-08-09T00:00:00Z,220.0290,220.0290,USD,AWS,Amazon Relational Database Service,Databases,prod,us-east-1,orders-db,orders-db,Usage,"{""team"": ""api"", ""env"": ""prod""}"
+2026-08-08T00:00:00Z,2026-08-09T00:00:00Z,111.0163,111.0163,USD,AWS,Amazon Simple Storage Service,Storage,prod,us-east-1,media-bucket,media-bucket,Usage,"{""team"": ""web"", ""env"": ""prod""}"
+2026-08-08T00:00:00Z,2026-08-09T00:00:00Z,58.2283,58.2283,USD,AWS,Amazon Simple Storage Service,Storage,prod,us-east-1,logs-archive,logs-archive,Usage,{}
+2026-08-08T00:00:00Z,2026-08-09T00:00:00Z,146.3515,146.3515,USD,Microsoft,Azure Kubernetes Service,Compute,analytics,brazilsouth,aks-ml,aks-ml,Usage,"{""team"": ""data"", ""env"": ""prod""}"
+2026-08-08T00:00:00Z,2026-08-09T00:00:00Z,133.5260,133.5260,USD,Google Cloud,BigQuery,Analytics,analytics,us,warehouse,warehouse,Usage,"{""team"": ""data"", ""env"": ""prod""}"
+2026-08-08T00:00:00Z,2026-08-09T00:00:00Z,48.1889,48.1889,USD,Google Cloud,Cloud Storage,Storage,analytics,us,datalake,datalake,Usage,"{""team"": ""data""}"
+2026-08-09T00:00:00Z,2026-08-10T00:00:00Z,347.7518,347.7518,USD,AWS,Amazon Elastic Compute Cloud,Compute,prod,us-east-1,i-0a91f3c2web,i-0a91f3c2web,Usage,"{""team"": ""web"", ""env"": ""prod""}"
+2026-08-09T00:00:00Z,2026-08-10T00:00:00Z,217.3581,217.3581,USD,AWS,Amazon Elastic Compute Cloud,Compute,prod,us-east-1,i-07c1e9a4api,i-07c1e9a4api,Usage,"{""team"": ""api"", ""env"": ""prod""}"
+2026-08-09T00:00:00Z,2026-08-10T00:00:00Z,77.8901,77.8901,USD,AWS,Amazon Elastic Compute Cloud,Compute,staging,us-east-1,i-0bb2d11ci,i-0bb2d11ci,Usage,{}
+2026-08-09T00:00:00Z,2026-08-10T00:00:00Z,226.1593,226.1593,USD,AWS,Amazon Relational Database Service,Databases,prod,us-east-1,orders-db,orders-db,Usage,"{""team"": ""api"", ""env"": ""prod""}"
+2026-08-09T00:00:00Z,2026-08-10T00:00:00Z,127.9593,127.9593,USD,AWS,Amazon Simple Storage Service,Storage,prod,us-east-1,media-bucket,media-bucket,Usage,"{""team"": ""web"", ""env"": ""prod""}"
+2026-08-09T00:00:00Z,2026-08-10T00:00:00Z,59.6050,59.6050,USD,AWS,Amazon Simple Storage Service,Storage,prod,us-east-1,logs-archive,logs-archive,Usage,{}
+2026-08-09T00:00:00Z,2026-08-10T00:00:00Z,146.2819,146.2819,USD,Microsoft,Azure Kubernetes Service,Compute,analytics,brazilsouth,aks-ml,aks-ml,Usage,"{""team"": ""data"", ""env"": ""prod""}"
+2026-08-09T00:00:00Z,2026-08-10T00:00:00Z,134.3245,134.3245,USD,Google Cloud,BigQuery,Analytics,analytics,us,warehouse,warehouse,Usage,"{""team"": ""data"", ""env"": ""prod""}"
+2026-08-09T00:00:00Z,2026-08-10T00:00:00Z,45.4419,45.4419,USD,Google Cloud,Cloud Storage,Storage,analytics,us,datalake,datalake,Usage,"{""team"": ""data""}"
+2026-08-10T00:00:00Z,2026-08-11T00:00:00Z,394.4358,394.4358,USD,AWS,Amazon Elastic Compute Cloud,Compute,prod,us-east-1,i-0a91f3c2web,i-0a91f3c2web,Usage,"{""team"": ""web"", ""env"": ""prod""}"
+2026-08-10T00:00:00Z,2026-08-11T00:00:00Z,283.7895,283.7895,USD,AWS,Amazon Elastic Compute Cloud,Compute,prod,us-east-1,i-07c1e9a4api,i-07c1e9a4api,Usage,"{""team"": ""api"", ""env"": ""prod""}"
+2026-08-10T00:00:00Z,2026-08-11T00:00:00Z,101.0469,101.0469,USD,AWS,Amazon Elastic Compute Cloud,Compute,staging,us-east-1,i-0bb2d11ci,i-0bb2d11ci,Usage,{}
+2026-08-10T00:00:00Z,2026-08-11T00:00:00Z,226.2979,226.2979,USD,AWS,Amazon Relational Database Service,Databases,prod,us-east-1,orders-db,orders-db,Usage,"{""team"": ""api"", ""env"": ""prod""}"
+2026-08-10T00:00:00Z,2026-08-11T00:00:00Z,114.6110,114.6110,USD,AWS,Amazon Simple Storage Service,Storage,prod,us-east-1,media-bucket,media-bucket,Usage,"{""team"": ""web"", ""env"": ""prod""}"
+2026-08-10T00:00:00Z,2026-08-11T00:00:00Z,64.7764,64.7764,USD,AWS,Amazon Simple Storage Service,Storage,prod,us-east-1,logs-archive,logs-archive,Usage,{}
+2026-08-10T00:00:00Z,2026-08-11T00:00:00Z,190.2896,190.2896,USD,Microsoft,Azure Kubernetes Service,Compute,analytics,brazilsouth,aks-ml,aks-ml,Usage,"{""team"": ""data"", ""env"": ""prod""}"
+2026-08-10T00:00:00Z,2026-08-11T00:00:00Z,130.8364,130.8364,USD,Google Cloud,BigQuery,Analytics,analytics,us,warehouse,warehouse,Usage,"{""team"": ""data"", ""env"": ""prod""}"
+2026-08-10T00:00:00Z,2026-08-11T00:00:00Z,41.7392,41.7392,USD,Google Cloud,Cloud Storage,Storage,analytics,us,datalake,datalake,Usage,"{""team"": ""data""}"
+2026-08-11T00:00:00Z,2026-08-12T00:00:00Z,384.3930,384.3930,USD,AWS,Amazon Elastic Compute Cloud,Compute,prod,us-east-1,i-0a91f3c2web,i-0a91f3c2web,Usage,"{""team"": ""web"", ""env"": ""prod""}"
+2026-08-11T00:00:00Z,2026-08-12T00:00:00Z,285.7096,285.7096,USD,AWS,Amazon Elastic Compute Cloud,Compute,prod,us-east-1,i-07c1e9a4api,i-07c1e9a4api,Usage,"{""team"": ""api"", ""env"": ""prod""}"
+2026-08-11T00:00:00Z,2026-08-12T00:00:00Z,99.4396,99.4396,USD,AWS,Amazon Elastic Compute Cloud,Compute,staging,us-east-1,i-0bb2d11ci,i-0bb2d11ci,Usage,{}
+2026-08-11T00:00:00Z,2026-08-12T00:00:00Z,227.1355,227.1355,USD,AWS,Amazon Relational Database Service,Databases,prod,us-east-1,orders-db,orders-db,Usage,"{""team"": ""api"", ""env"": ""prod""}"
+2026-08-11T00:00:00Z,2026-08-12T00:00:00Z,111.6197,111.6197,USD,AWS,Amazon Simple Storage Service,Storage,prod,us-east-1,media-bucket,media-bucket,Usage,"{""team"": ""web"", ""env"": ""prod""}"
+2026-08-11T00:00:00Z,2026-08-12T00:00:00Z,58.8635,58.8635,USD,AWS,Amazon Simple Storage Service,Storage,prod,us-east-1,logs-archive,logs-archive,Usage,{}
+2026-08-11T00:00:00Z,2026-08-12T00:00:00Z,205.0821,205.0821,USD,Microsoft,Azure Kubernetes Service,Compute,analytics,brazilsouth,aks-ml,aks-ml,Usage,"{""team"": ""data"", ""env"": ""prod""}"
+2026-08-11T00:00:00Z,2026-08-12T00:00:00Z,140.6522,140.6522,USD,Google Cloud,BigQuery,Analytics,analytics,us,warehouse,warehouse,Usage,"{""team"": ""data"", ""env"": ""prod""}"
+2026-08-11T00:00:00Z,2026-08-12T00:00:00Z,48.3918,48.3918,USD,Google Cloud,Cloud Storage,Storage,analytics,us,datalake,datalake,Usage,"{""team"": ""data""}"
+2026-08-12T00:00:00Z,2026-08-13T00:00:00Z,433.6671,433.6671,USD,AWS,Amazon Elastic Compute Cloud,Compute,prod,us-east-1,i-0a91f3c2web,i-0a91f3c2web,Usage,"{""team"": ""web"", ""env"": ""prod""}"
+2026-08-12T00:00:00Z,2026-08-13T00:00:00Z,258.1143,258.1143,USD,AWS,Amazon Elastic Compute Cloud,Compute,prod,us-east-1,i-07c1e9a4api,i-07c1e9a4api,Usage,"{""team"": ""api"", ""env"": ""prod""}"
+2026-08-12T00:00:00Z,2026-08-13T00:00:00Z,98.3550,98.3550,USD,AWS,Amazon Elastic Compute Cloud,Compute,staging,us-east-1,i-0bb2d11ci,i-0bb2d11ci,Usage,{}
+2026-08-12T00:00:00Z,2026-08-13T00:00:00Z,236.6869,236.6869,USD,AWS,Amazon Relational Database Service,Databases,prod,us-east-1,orders-db,orders-db,Usage,"{""team"": ""api"", ""env"": ""prod""}"
+2026-08-12T00:00:00Z,2026-08-13T00:00:00Z,120.7098,120.7098,USD,AWS,Amazon Simple Storage Service,Storage,prod,us-east-1,media-bucket,media-bucket,Usage,"{""team"": ""web"", ""env"": ""prod""}"
+2026-08-12T00:00:00Z,2026-08-13T00:00:00Z,57.7615,57.7615,USD,AWS,Amazon Simple Storage Service,Storage,prod,us-east-1,logs-archive,logs-archive,Usage,{}
+2026-08-12T00:00:00Z,2026-08-13T00:00:00Z,194.2852,194.2852,USD,Microsoft,Azure Kubernetes Service,Compute,analytics,brazilsouth,aks-ml,aks-ml,Usage,"{""team"": ""data"", ""env"": ""prod""}"
+2026-08-12T00:00:00Z,2026-08-13T00:00:00Z,131.2988,131.2988,USD,Google Cloud,BigQuery,Analytics,analytics,us,warehouse,warehouse,Usage,"{""team"": ""data"", ""env"": ""prod""}"
+2026-08-12T00:00:00Z,2026-08-13T00:00:00Z,44.5303,44.5303,USD,Google Cloud,Cloud Storage,Storage,analytics,us,datalake,datalake,Usage,"{""team"": ""data""}"
+2026-08-13T00:00:00Z,2026-08-14T00:00:00Z,406.9643,406.9643,USD,AWS,Amazon Elastic Compute Cloud,Compute,prod,us-east-1,i-0a91f3c2web,i-0a91f3c2web,Usage,"{""team"": ""web"", ""env"": ""prod""}"
+2026-08-13T00:00:00Z,2026-08-14T00:00:00Z,300.3310,300.3310,USD,AWS,Amazon Elastic Compute Cloud,Compute,prod,us-east-1,i-07c1e9a4api,i-07c1e9a4api,Usage,"{""team"": ""api"", ""env"": ""prod""}"
+2026-08-13T00:00:00Z,2026-08-14T00:00:00Z,100.7130,100.7130,USD,AWS,Amazon Elastic Compute Cloud,Compute,staging,us-east-1,i-0bb2d11ci,i-0bb2d11ci,Usage,{}
+2026-08-13T00:00:00Z,2026-08-14T00:00:00Z,221.2927,221.2927,USD,AWS,Amazon Relational Database Service,Databases,prod,us-east-1,orders-db,orders-db,Usage,"{""team"": ""api"", ""env"": ""prod""}"
+2026-08-13T00:00:00Z,2026-08-14T00:00:00Z,120.0113,120.0113,USD,AWS,Amazon Simple Storage Service,Storage,prod,us-east-1,media-bucket,media-bucket,Usage,"{""team"": ""web"", ""env"": ""prod""}"
+2026-08-13T00:00:00Z,2026-08-14T00:00:00Z,56.9151,56.9151,USD,AWS,Amazon Simple Storage Service,Storage,prod,us-east-1,logs-archive,logs-archive,Usage,{}
+2026-08-13T00:00:00Z,2026-08-14T00:00:00Z,202.5439,202.5439,USD,Microsoft,Azure Kubernetes Service,Compute,analytics,brazilsouth,aks-ml,aks-ml,Usage,"{""team"": ""data"", ""env"": ""prod""}"
+2026-08-13T00:00:00Z,2026-08-14T00:00:00Z,148.2996,148.2996,USD,Google Cloud,BigQuery,Analytics,analytics,us,warehouse,warehouse,Usage,"{""team"": ""data"", ""env"": ""prod""}"
+2026-08-13T00:00:00Z,2026-08-14T00:00:00Z,43.5488,43.5488,USD,Google Cloud,Cloud Storage,Storage,analytics,us,datalake,datalake,Usage,"{""team"": ""data""}"
+2026-08-14T00:00:00Z,2026-08-15T00:00:00Z,419.1151,419.1151,USD,AWS,Amazon Elastic Compute Cloud,Compute,prod,us-east-1,i-0a91f3c2web,i-0a91f3c2web,Usage,"{""team"": ""web"", ""env"": ""prod""}"
+2026-08-14T00:00:00Z,2026-08-15T00:00:00Z,284.8819,284.8819,USD,AWS,Amazon Elastic Compute Cloud,Compute,prod,us-east-1,i-07c1e9a4api,i-07c1e9a4api,Usage,"{""team"": ""api"", ""env"": ""prod""}"
+2026-08-14T00:00:00Z,2026-08-15T00:00:00Z,89.7232,89.7232,USD,AWS,Amazon Elastic Compute Cloud,Compute,staging,us-east-1,i-0bb2d11ci,i-0bb2d11ci,Usage,{}
+2026-08-14T00:00:00Z,2026-08-15T00:00:00Z,239.6604,239.6604,USD,AWS,Amazon Relational Database Service,Databases,prod,us-east-1,orders-db,orders-db,Usage,"{""team"": ""api"", ""env"": ""prod""}"
+2026-08-14T00:00:00Z,2026-08-15T00:00:00Z,120.7561,120.7561,USD,AWS,Amazon Simple Storage Service,Storage,prod,us-east-1,media-bucket,media-bucket,Usage,"{""team"": ""web"", ""env"": ""prod""}"
+2026-08-14T00:00:00Z,2026-08-15T00:00:00Z,62.6748,62.6748,USD,AWS,Amazon Simple Storage Service,Storage,prod,us-east-1,logs-archive,logs-archive,Usage,{}
+2026-08-14T00:00:00Z,2026-08-15T00:00:00Z,190.9228,190.9228,USD,Microsoft,Azure Kubernetes Service,Compute,analytics,brazilsouth,aks-ml,aks-ml,Usage,"{""team"": ""data"", ""env"": ""prod""}"
+2026-08-14T00:00:00Z,2026-08-15T00:00:00Z,128.8128,128.8128,USD,Google Cloud,BigQuery,Analytics,analytics,us,warehouse,warehouse,Usage,"{""team"": ""data"", ""env"": ""prod""}"
+2026-08-14T00:00:00Z,2026-08-15T00:00:00Z,43.7339,43.7339,USD,Google Cloud,Cloud Storage,Storage,analytics,us,datalake,datalake,Usage,"{""team"": ""data""}"
+2026-08-15T00:00:00Z,2026-08-16T00:00:00Z,302.7821,302.7821,USD,AWS,Amazon Elastic Compute Cloud,Compute,prod,us-east-1,i-0a91f3c2web,i-0a91f3c2web,Usage,"{""team"": ""web"", ""env"": ""prod""}"
+2026-08-15T00:00:00Z,2026-08-16T00:00:00Z,239.3789,239.3789,USD,AWS,Amazon Elastic Compute Cloud,Compute,prod,us-east-1,i-07c1e9a4api,i-07c1e9a4api,Usage,"{""team"": ""api"", ""env"": ""prod""}"
+2026-08-15T00:00:00Z,2026-08-16T00:00:00Z,80.6053,80.6053,USD,AWS,Amazon Elastic Compute Cloud,Compute,staging,us-east-1,i-0bb2d11ci,i-0bb2d11ci,Usage,{}
+2026-08-15T00:00:00Z,2026-08-16T00:00:00Z,242.2053,242.2053,USD,AWS,Amazon Relational Database Service,Databases,prod,us-east-1,orders-db,orders-db,Usage,"{""team"": ""api"", ""env"": ""prod""}"
+2026-08-15T00:00:00Z,2026-08-16T00:00:00Z,116.3043,116.3043,USD,AWS,Amazon Simple Storage Service,Storage,prod,us-east-1,media-bucket,media-bucket,Usage,"{""team"": ""web"", ""env"": ""prod""}"
+2026-08-15T00:00:00Z,2026-08-16T00:00:00Z,55.7561,55.7561,USD,AWS,Amazon Simple Storage Service,Storage,prod,us-east-1,logs-archive,logs-archive,Usage,{}
+2026-08-15T00:00:00Z,2026-08-16T00:00:00Z,161.1932,161.1932,USD,Microsoft,Azure Kubernetes Service,Compute,analytics,brazilsouth,aks-ml,aks-ml,Usage,"{""team"": ""data"", ""env"": ""prod""}"
+2026-08-15T00:00:00Z,2026-08-16T00:00:00Z,150.0117,150.0117,USD,Google Cloud,BigQuery,Analytics,analytics,us,warehouse,warehouse,Usage,"{""team"": ""data"", ""env"": ""prod""}"
+2026-08-15T00:00:00Z,2026-08-16T00:00:00Z,42.0167,42.0167,USD,Google Cloud,Cloud Storage,Storage,analytics,us,datalake,datalake,Usage,"{""team"": ""data""}"
+2026-08-16T00:00:00Z,2026-08-17T00:00:00Z,327.2648,327.2648,USD,AWS,Amazon Elastic Compute Cloud,Compute,prod,us-east-1,i-0a91f3c2web,i-0a91f3c2web,Usage,"{""team"": ""web"", ""env"": ""prod""}"
+2026-08-16T00:00:00Z,2026-08-17T00:00:00Z,208.5606,208.5606,USD,AWS,Amazon Elastic Compute Cloud,Compute,prod,us-east-1,i-07c1e9a4api,i-07c1e9a4api,Usage,"{""team"": ""api"", ""env"": ""prod""}"
+2026-08-16T00:00:00Z,2026-08-17T00:00:00Z,79.1689,79.1689,USD,AWS,Amazon Elastic Compute Cloud,Compute,staging,us-east-1,i-0bb2d11ci,i-0bb2d11ci,Usage,{}
+2026-08-16T00:00:00Z,2026-08-17T00:00:00Z,239.7827,239.7827,USD,AWS,Amazon Relational Database Service,Databases,prod,us-east-1,orders-db,orders-db,Usage,"{""team"": ""api"", ""env"": ""prod""}"
+2026-08-16T00:00:00Z,2026-08-17T00:00:00Z,112.8651,112.8651,USD,AWS,Amazon Simple Storage Service,Storage,prod,us-east-1,media-bucket,media-bucket,Usage,"{""team"": ""web"", ""env"": ""prod""}"
+2026-08-16T00:00:00Z,2026-08-17T00:00:00Z,59.7627,59.7627,USD,AWS,Amazon Simple Storage Service,Storage,prod,us-east-1,logs-archive,logs-archive,Usage,{}
+2026-08-16T00:00:00Z,2026-08-17T00:00:00Z,153.2112,153.2112,USD,Microsoft,Azure Kubernetes Service,Compute,analytics,brazilsouth,aks-ml,aks-ml,Usage,"{""team"": ""data"", ""env"": ""prod""}"
+2026-08-16T00:00:00Z,2026-08-17T00:00:00Z,134.7373,134.7373,USD,Google Cloud,BigQuery,Analytics,analytics,us,warehouse,warehouse,Usage,"{""team"": ""data"", ""env"": ""prod""}"
+2026-08-16T00:00:00Z,2026-08-17T00:00:00Z,47.6815,47.6815,USD,Google Cloud,Cloud Storage,Storage,analytics,us,datalake,datalake,Usage,"{""team"": ""data""}"
+2026-08-17T00:00:00Z,2026-08-18T00:00:00Z,404.9578,404.9578,USD,AWS,Amazon Elastic Compute Cloud,Compute,prod,us-east-1,i-0a91f3c2web,i-0a91f3c2web,Usage,"{""team"": ""web"", ""env"": ""prod""}"
+2026-08-17T00:00:00Z,2026-08-18T00:00:00Z,267.0886,267.0886,USD,AWS,Amazon Elastic Compute Cloud,Compute,prod,us-east-1,i-07c1e9a4api,i-07c1e9a4api,Usage,"{""team"": ""api"", ""env"": ""prod""}"
+2026-08-17T00:00:00Z,2026-08-18T00:00:00Z,95.5973,95.5973,USD,AWS,Amazon Elastic Compute Cloud,Compute,staging,us-east-1,i-0bb2d11ci,i-0bb2d11ci,Usage,{}
+2026-08-17T00:00:00Z,2026-08-18T00:00:00Z,238.4615,238.4615,USD,AWS,Amazon Relational Database Service,Databases,prod,us-east-1,orders-db,orders-db,Usage,"{""team"": ""api"", ""env"": ""prod""}"
+2026-08-17T00:00:00Z,2026-08-18T00:00:00Z,114.2621,114.2621,USD,AWS,Amazon Simple Storage Service,Storage,prod,us-east-1,media-bucket,media-bucket,Usage,"{""team"": ""web"", ""env"": ""prod""}"
+2026-08-17T00:00:00Z,2026-08-18T00:00:00Z,58.1925,58.1925,USD,AWS,Amazon Simple Storage Service,Storage,prod,us-east-1,logs-archive,logs-archive,Usage,{}
+2026-08-17T00:00:00Z,2026-08-18T00:00:00Z,205.0525,205.0525,USD,Microsoft,Azure Kubernetes Service,Compute,analytics,brazilsouth,aks-ml,aks-ml,Usage,"{""team"": ""data"", ""env"": ""prod""}"
+2026-08-17T00:00:00Z,2026-08-18T00:00:00Z,143.3573,143.3573,USD,Google Cloud,BigQuery,Analytics,analytics,us,warehouse,warehouse,Usage,"{""team"": ""data"", ""env"": ""prod""}"
+2026-08-17T00:00:00Z,2026-08-18T00:00:00Z,44.5543,44.5543,USD,Google Cloud,Cloud Storage,Storage,analytics,us,datalake,datalake,Usage,"{""team"": ""data""}"
+2026-08-18T00:00:00Z,2026-08-19T00:00:00Z,411.1530,411.1530,USD,AWS,Amazon Elastic Compute Cloud,Compute,prod,us-east-1,i-0a91f3c2web,i-0a91f3c2web,Usage,"{""team"": ""web"", ""env"": ""prod""}"
+2026-08-18T00:00:00Z,2026-08-19T00:00:00Z,263.0210,263.0210,USD,AWS,Amazon Elastic Compute Cloud,Compute,prod,us-east-1,i-07c1e9a4api,i-07c1e9a4api,Usage,"{""team"": ""api"", ""env"": ""prod""}"
+2026-08-18T00:00:00Z,2026-08-19T00:00:00Z,90.8154,90.8154,USD,AWS,Amazon Elastic Compute Cloud,Compute,staging,us-east-1,i-0bb2d11ci,i-0bb2d11ci,Usage,{}
+2026-08-18T00:00:00Z,2026-08-19T00:00:00Z,224.0415,224.0415,USD,AWS,Amazon Relational Database Service,Databases,prod,us-east-1,orders-db,orders-db,Usage,"{""team"": ""api"", ""env"": ""prod""}"
+2026-08-18T00:00:00Z,2026-08-19T00:00:00Z,121.6955,121.6955,USD,AWS,Amazon Simple Storage Service,Storage,prod,us-east-1,media-bucket,media-bucket,Usage,"{""team"": ""web"", ""env"": ""prod""}"
+2026-08-18T00:00:00Z,2026-08-19T00:00:00Z,57.4091,57.4091,USD,AWS,Amazon Simple Storage Service,Storage,prod,us-east-1,logs-archive,logs-archive,Usage,{}
+2026-08-18T00:00:00Z,2026-08-19T00:00:00Z,181.4946,181.4946,USD,Microsoft,Azure Kubernetes Service,Compute,analytics,brazilsouth,aks-ml,aks-ml,Usage,"{""team"": ""data"", ""env"": ""prod""}"
+2026-08-18T00:00:00Z,2026-08-19T00:00:00Z,130.3902,130.3902,USD,Google Cloud,BigQuery,Analytics,analytics,us,warehouse,warehouse,Usage,"{""team"": ""data"", ""env"": ""prod""}"
+2026-08-18T00:00:00Z,2026-08-19T00:00:00Z,45.9439,45.9439,USD,Google Cloud,Cloud Storage,Storage,analytics,us,datalake,datalake,Usage,"{""team"": ""data""}"
+2026-08-19T00:00:00Z,2026-08-20T00:00:00Z,392.2186,392.2186,USD,AWS,Amazon Elastic Compute Cloud,Compute,prod,us-east-1,i-0a91f3c2web,i-0a91f3c2web,Usage,"{""team"": ""web"", ""env"": ""prod""}"
+2026-08-19T00:00:00Z,2026-08-20T00:00:00Z,298.1628,298.1628,USD,AWS,Amazon Elastic Compute Cloud,Compute,prod,us-east-1,i-07c1e9a4api,i-07c1e9a4api,Usage,"{""team"": ""api"", ""env"": ""prod""}"
+2026-08-19T00:00:00Z,2026-08-20T00:00:00Z,100.4665,100.4665,USD,AWS,Amazon Elastic Compute Cloud,Compute,staging,us-east-1,i-0bb2d11ci,i-0bb2d11ci,Usage,{}
+2026-08-19T00:00:00Z,2026-08-20T00:00:00Z,214.2076,214.2076,USD,AWS,Amazon Relational Database Service,Databases,prod,us-east-1,orders-db,orders-db,Usage,"{""team"": ""api"", ""env"": ""prod""}"
+2026-08-19T00:00:00Z,2026-08-20T00:00:00Z,114.9697,114.9697,USD,AWS,Amazon Simple Storage Service,Storage,prod,us-east-1,media-bucket,media-bucket,Usage,"{""team"": ""web"", ""env"": ""prod""}"
+2026-08-19T00:00:00Z,2026-08-20T00:00:00Z,61.6222,61.6222,USD,AWS,Amazon Simple Storage Service,Storage,prod,us-east-1,logs-archive,logs-archive,Usage,{}
+2026-08-19T00:00:00Z,2026-08-20T00:00:00Z,181.3128,181.3128,USD,Microsoft,Azure Kubernetes Service,Compute,analytics,brazilsouth,aks-ml,aks-ml,Usage,"{""team"": ""data"", ""env"": ""prod""}"
+2026-08-19T00:00:00Z,2026-08-20T00:00:00Z,131.7638,131.7638,USD,Google Cloud,BigQuery,Analytics,analytics,us,warehouse,warehouse,Usage,"{""team"": ""data"", ""env"": ""prod""}"
+2026-08-19T00:00:00Z,2026-08-20T00:00:00Z,48.1357,48.1357,USD,Google Cloud,Cloud Storage,Storage,analytics,us,datalake,datalake,Usage,"{""team"": ""data""}"
+2026-08-20T00:00:00Z,2026-08-21T00:00:00Z,414.6604,414.6604,USD,AWS,Amazon Elastic Compute Cloud,Compute,prod,us-east-1,i-0a91f3c2web,i-0a91f3c2web,Usage,"{""team"": ""web"", ""env"": ""prod""}"
+2026-08-20T00:00:00Z,2026-08-21T00:00:00Z,278.7757,278.7757,USD,AWS,Amazon Elastic Compute Cloud,Compute,prod,us-east-1,i-07c1e9a4api,i-07c1e9a4api,Usage,"{""team"": ""api"", ""env"": ""prod""}"
+2026-08-20T00:00:00Z,2026-08-21T00:00:00Z,99.3262,99.3262,USD,AWS,Amazon Elastic Compute Cloud,Compute,staging,us-east-1,i-0bb2d11ci,i-0bb2d11ci,Usage,{}
+2026-08-20T00:00:00Z,2026-08-21T00:00:00Z,241.3159,241.3159,USD,AWS,Amazon Relational Database Service,Databases,prod,us-east-1,orders-db,orders-db,Usage,"{""team"": ""api"", ""env"": ""prod""}"
+2026-08-20T00:00:00Z,2026-08-21T00:00:00Z,114.0559,114.0559,USD,AWS,Amazon Simple Storage Service,Storage,prod,us-east-1,media-bucket,media-bucket,Usage,"{""team"": ""web"", ""env"": ""prod""}"
+2026-08-20T00:00:00Z,2026-08-21T00:00:00Z,56.1305,56.1305,USD,AWS,Amazon Simple Storage Service,Storage,prod,us-east-1,logs-archive,logs-archive,Usage,{}
+2026-08-20T00:00:00Z,2026-08-21T00:00:00Z,187.9040,187.9040,USD,Microsoft,Azure Kubernetes Service,Compute,analytics,brazilsouth,aks-ml,aks-ml,Usage,"{""team"": ""data"", ""env"": ""prod""}"
+2026-08-20T00:00:00Z,2026-08-21T00:00:00Z,138.2882,138.2882,USD,Google Cloud,BigQuery,Analytics,analytics,us,warehouse,warehouse,Usage,"{""team"": ""data"", ""env"": ""prod""}"
+2026-08-20T00:00:00Z,2026-08-21T00:00:00Z,44.7626,44.7626,USD,Google Cloud,Cloud Storage,Storage,analytics,us,datalake,datalake,Usage,"{""team"": ""data""}"
+2026-08-21T00:00:00Z,2026-08-22T00:00:00Z,425.0274,425.0274,USD,AWS,Amazon Elastic Compute Cloud,Compute,prod,us-east-1,i-0a91f3c2web,i-0a91f3c2web,Usage,"{""team"": ""web"", ""env"": ""prod""}"
+2026-08-21T00:00:00Z,2026-08-22T00:00:00Z,287.7667,287.7667,USD,AWS,Amazon Elastic Compute Cloud,Compute,prod,us-east-1,i-07c1e9a4api,i-07c1e9a4api,Usage,"{""team"": ""api"", ""env"": ""prod""}"
+2026-08-21T00:00:00Z,2026-08-22T00:00:00Z,102.3593,102.3593,USD,AWS,Amazon Elastic Compute Cloud,Compute,staging,us-east-1,i-0bb2d11ci,i-0bb2d11ci,Usage,{}
+2026-08-21T00:00:00Z,2026-08-22T00:00:00Z,215.2218,215.2218,USD,AWS,Amazon Relational Database Service,Databases,prod,us-east-1,orders-db,orders-db,Usage,"{""team"": ""api"", ""env"": ""prod""}"
+2026-08-21T00:00:00Z,2026-08-22T00:00:00Z,118.1303,118.1303,USD,AWS,Amazon Simple Storage Service,Storage,prod,us-east-1,media-bucket,media-bucket,Usage,"{""team"": ""web"", ""env"": ""prod""}"
+2026-08-21T00:00:00Z,2026-08-22T00:00:00Z,58.4573,58.4573,USD,AWS,Amazon Simple Storage Service,Storage,prod,us-east-1,logs-archive,logs-archive,Usage,{}
+2026-08-21T00:00:00Z,2026-08-22T00:00:00Z,200.9948,200.9948,USD,Microsoft,Azure Kubernetes Service,Compute,analytics,brazilsouth,aks-ml,aks-ml,Usage,"{""team"": ""data"", ""env"": ""prod""}"
+2026-08-21T00:00:00Z,2026-08-22T00:00:00Z,134.3699,134.3699,USD,Google Cloud,BigQuery,Analytics,analytics,us,warehouse,warehouse,Usage,"{""team"": ""data"", ""env"": ""prod""}"
+2026-08-21T00:00:00Z,2026-08-22T00:00:00Z,42.7695,42.7695,USD,Google Cloud,Cloud Storage,Storage,analytics,us,datalake,datalake,Usage,"{""team"": ""data""}"
+2026-08-22T00:00:00Z,2026-08-23T00:00:00Z,325.3032,325.3032,USD,AWS,Amazon Elastic Compute Cloud,Compute,prod,us-east-1,i-0a91f3c2web,i-0a91f3c2web,Usage,"{""team"": ""web"", ""env"": ""prod""}"
+2026-08-22T00:00:00Z,2026-08-23T00:00:00Z,221.2002,221.2002,USD,AWS,Amazon Elastic Compute Cloud,Compute,prod,us-east-1,i-07c1e9a4api,i-07c1e9a4api,Usage,"{""team"": ""api"", ""env"": ""prod""}"
+2026-08-22T00:00:00Z,2026-08-23T00:00:00Z,73.3071,73.3071,USD,AWS,Amazon Elastic Compute Cloud,Compute,staging,us-east-1,i-0bb2d11ci,i-0bb2d11ci,Usage,{}
+2026-08-22T00:00:00Z,2026-08-23T00:00:00Z,220.7929,220.7929,USD,AWS,Amazon Relational Database Service,Databases,prod,us-east-1,orders-db,orders-db,Usage,"{""team"": ""api"", ""env"": ""prod""}"
+2026-08-22T00:00:00Z,2026-08-23T00:00:00Z,128.1267,128.1267,USD,AWS,Amazon Simple Storage Service,Storage,prod,us-east-1,media-bucket,media-bucket,Usage,"{""team"": ""web"", ""env"": ""prod""}"
+2026-08-22T00:00:00Z,2026-08-23T00:00:00Z,59.4541,59.4541,USD,AWS,Amazon Simple Storage Service,Storage,prod,us-east-1,logs-archive,logs-archive,Usage,{}
+2026-08-22T00:00:00Z,2026-08-23T00:00:00Z,160.7880,160.7880,USD,Microsoft,Azure Kubernetes Service,Compute,analytics,brazilsouth,aks-ml,aks-ml,Usage,"{""team"": ""data"", ""env"": ""prod""}"
+2026-08-22T00:00:00Z,2026-08-23T00:00:00Z,141.1273,141.1273,USD,Google Cloud,BigQuery,Analytics,analytics,us,warehouse,warehouse,Usage,"{""team"": ""data"", ""env"": ""prod""}"
+2026-08-22T00:00:00Z,2026-08-23T00:00:00Z,41.7642,41.7642,USD,Google Cloud,Cloud Storage,Storage,analytics,us,datalake,datalake,Usage,"{""team"": ""data""}"
+2026-08-23T00:00:00Z,2026-08-24T00:00:00Z,354.2023,354.2023,USD,AWS,Amazon Elastic Compute Cloud,Compute,prod,us-east-1,i-0a91f3c2web,i-0a91f3c2web,Usage,"{""team"": ""web"", ""env"": ""prod""}"
+2026-08-23T00:00:00Z,2026-08-24T00:00:00Z,236.0432,236.0432,USD,AWS,Amazon Elastic Compute Cloud,Compute,prod,us-east-1,i-07c1e9a4api,i-07c1e9a4api,Usage,"{""team"": ""api"", ""env"": ""prod""}"
+2026-08-23T00:00:00Z,2026-08-24T00:00:00Z,81.7030,81.7030,USD,AWS,Amazon Elastic Compute Cloud,Compute,staging,us-east-1,i-0bb2d11ci,i-0bb2d11ci,Usage,{}
+2026-08-23T00:00:00Z,2026-08-24T00:00:00Z,245.6903,245.6903,USD,AWS,Amazon Relational Database Service,Databases,prod,us-east-1,orders-db,orders-db,Usage,"{""team"": ""api"", ""env"": ""prod""}"
+2026-08-23T00:00:00Z,2026-08-24T00:00:00Z,126.6950,126.6950,USD,AWS,Amazon Simple Storage Service,Storage,prod,us-east-1,media-bucket,media-bucket,Usage,"{""team"": ""web"", ""env"": ""prod""}"
+2026-08-23T00:00:00Z,2026-08-24T00:00:00Z,56.7966,56.7966,USD,AWS,Amazon Simple Storage Service,Storage,prod,us-east-1,logs-archive,logs-archive,Usage,{}
+2026-08-23T00:00:00Z,2026-08-24T00:00:00Z,151.6508,151.6508,USD,Microsoft,Azure Kubernetes Service,Compute,analytics,brazilsouth,aks-ml,aks-ml,Usage,"{""team"": ""data"", ""env"": ""prod""}"
+2026-08-23T00:00:00Z,2026-08-24T00:00:00Z,133.5879,133.5879,USD,Google Cloud,BigQuery,Analytics,analytics,us,warehouse,warehouse,Usage,"{""team"": ""data"", ""env"": ""prod""}"
+2026-08-23T00:00:00Z,2026-08-24T00:00:00Z,44.2875,44.2875,USD,Google Cloud,Cloud Storage,Storage,analytics,us,datalake,datalake,Usage,"{""team"": ""data""}"
+2026-08-24T00:00:00Z,2026-08-25T00:00:00Z,381.0465,381.0465,USD,AWS,Amazon Elastic Compute Cloud,Compute,prod,us-east-1,i-0a91f3c2web,i-0a91f3c2web,Usage,"{""team"": ""web"", ""env"": ""prod""}"
+2026-08-24T00:00:00Z,2026-08-25T00:00:00Z,274.5780,274.5780,USD,AWS,Amazon Elastic Compute Cloud,Compute,prod,us-east-1,i-07c1e9a4api,i-07c1e9a4api,Usage,"{""team"": ""api"", ""env"": ""prod""}"
+2026-08-24T00:00:00Z,2026-08-25T00:00:00Z,102.3767,102.3767,USD,AWS,Amazon Elastic Compute Cloud,Compute,staging,us-east-1,i-0bb2d11ci,i-0bb2d11ci,Usage,{}
+2026-08-24T00:00:00Z,2026-08-25T00:00:00Z,221.3595,221.3595,USD,AWS,Amazon Relational Database Service,Databases,prod,us-east-1,orders-db,orders-db,Usage,"{""team"": ""api"", ""env"": ""prod""}"
+2026-08-24T00:00:00Z,2026-08-25T00:00:00Z,125.4542,125.4542,USD,AWS,Amazon Simple Storage Service,Storage,prod,us-east-1,media-bucket,media-bucket,Usage,"{""team"": ""web"", ""env"": ""prod""}"
+2026-08-24T00:00:00Z,2026-08-25T00:00:00Z,59.5681,59.5681,USD,AWS,Amazon Simple Storage Service,Storage,prod,us-east-1,logs-archive,logs-archive,Usage,{}
+2026-08-24T00:00:00Z,2026-08-25T00:00:00Z,187.6594,187.6594,USD,Microsoft,Azure Kubernetes Service,Compute,analytics,brazilsouth,aks-ml,aks-ml,Usage,"{""team"": ""data"", ""env"": ""prod""}"
+2026-08-24T00:00:00Z,2026-08-25T00:00:00Z,150.2439,150.2439,USD,Google Cloud,BigQuery,Analytics,analytics,us,warehouse,warehouse,Usage,"{""team"": ""data"", ""env"": ""prod""}"
+2026-08-24T00:00:00Z,2026-08-25T00:00:00Z,48.5670,48.5670,USD,Google Cloud,Cloud Storage,Storage,analytics,us,datalake,datalake,Usage,"{""team"": ""data""}"
+2026-08-25T00:00:00Z,2026-08-26T00:00:00Z,413.6584,413.6584,USD,AWS,Amazon Elastic Compute Cloud,Compute,prod,us-east-1,i-0a91f3c2web,i-0a91f3c2web,Usage,"{""team"": ""web"", ""env"": ""prod""}"
+2026-08-25T00:00:00Z,2026-08-26T00:00:00Z,289.7847,289.7847,USD,AWS,Amazon Elastic Compute Cloud,Compute,prod,us-east-1,i-07c1e9a4api,i-07c1e9a4api,Usage,"{""team"": ""api"", ""env"": ""prod""}"
+2026-08-25T00:00:00Z,2026-08-26T00:00:00Z,89.7529,89.7529,USD,AWS,Amazon Elastic Compute Cloud,Compute,staging,us-east-1,i-0bb2d11ci,i-0bb2d11ci,Usage,{}
+2026-08-25T00:00:00Z,2026-08-26T00:00:00Z,222.5188,222.5188,USD,AWS,Amazon Relational Database Service,Databases,prod,us-east-1,orders-db,orders-db,Usage,"{""team"": ""api"", ""env"": ""prod""}"
+2026-08-25T00:00:00Z,2026-08-26T00:00:00Z,128.9992,128.9992,USD,AWS,Amazon Simple Storage Service,Storage,prod,us-east-1,media-bucket,media-bucket,Usage,"{""team"": ""web"", ""env"": ""prod""}"
+2026-08-25T00:00:00Z,2026-08-26T00:00:00Z,60.7601,60.7601,USD,AWS,Amazon Simple Storage Service,Storage,prod,us-east-1,logs-archive,logs-archive,Usage,{}
+2026-08-25T00:00:00Z,2026-08-26T00:00:00Z,191.2827,191.2827,USD,Microsoft,Azure Kubernetes Service,Compute,analytics,brazilsouth,aks-ml,aks-ml,Usage,"{""team"": ""data"", ""env"": ""prod""}"
+2026-08-25T00:00:00Z,2026-08-26T00:00:00Z,145.5547,145.5547,USD,Google Cloud,BigQuery,Analytics,analytics,us,warehouse,warehouse,Usage,"{""team"": ""data"", ""env"": ""prod""}"
+2026-08-25T00:00:00Z,2026-08-26T00:00:00Z,41.8116,41.8116,USD,Google Cloud,Cloud Storage,Storage,analytics,us,datalake,datalake,Usage,"{""team"": ""data""}"
+2026-08-26T00:00:00Z,2026-08-27T00:00:00Z,415.5221,415.5221,USD,AWS,Amazon Elastic Compute Cloud,Compute,prod,us-east-1,i-0a91f3c2web,i-0a91f3c2web,Usage,"{""team"": ""web"", ""env"": ""prod""}"
+2026-08-26T00:00:00Z,2026-08-27T00:00:00Z,280.1277,280.1277,USD,AWS,Amazon Elastic Compute Cloud,Compute,prod,us-east-1,i-07c1e9a4api,i-07c1e9a4api,Usage,"{""team"": ""api"", ""env"": ""prod""}"
+2026-08-26T00:00:00Z,2026-08-27T00:00:00Z,100.3613,100.3613,USD,AWS,Amazon Elastic Compute Cloud,Compute,staging,us-east-1,i-0bb2d11ci,i-0bb2d11ci,Usage,{}
+2026-08-26T00:00:00Z,2026-08-27T00:00:00Z,217.3935,217.3935,USD,AWS,Amazon Relational Database Service,Databases,prod,us-east-1,orders-db,orders-db,Usage,"{""team"": ""api"", ""env"": ""prod""}"
+2026-08-26T00:00:00Z,2026-08-27T00:00:00Z,128.8470,128.8470,USD,AWS,Amazon Simple Storage Service,Storage,prod,us-east-1,media-bucket,media-bucket,Usage,"{""team"": ""web"", ""env"": ""prod""}"
+2026-08-26T00:00:00Z,2026-08-27T00:00:00Z,55.9691,55.9691,USD,AWS,Amazon Simple Storage Service,Storage,prod,us-east-1,logs-archive,logs-archive,Usage,{}
+2026-08-26T00:00:00Z,2026-08-27T00:00:00Z,180.4491,180.4491,USD,Microsoft,Azure Kubernetes Service,Compute,analytics,brazilsouth,aks-ml,aks-ml,Usage,"{""team"": ""data"", ""env"": ""prod""}"
+2026-08-26T00:00:00Z,2026-08-27T00:00:00Z,142.1288,142.1288,USD,Google Cloud,BigQuery,Analytics,analytics,us,warehouse,warehouse,Usage,"{""team"": ""data"", ""env"": ""prod""}"
+2026-08-26T00:00:00Z,2026-08-27T00:00:00Z,46.2615,46.2615,USD,Google Cloud,Cloud Storage,Storage,analytics,us,datalake,datalake,Usage,"{""team"": ""data""}"
+2026-08-27T00:00:00Z,2026-08-28T00:00:00Z,392.6294,392.6294,USD,AWS,Amazon Elastic Compute Cloud,Compute,prod,us-east-1,i-0a91f3c2web,i-0a91f3c2web,Usage,"{""team"": ""web"", ""env"": ""prod""}"
+2026-08-27T00:00:00Z,2026-08-28T00:00:00Z,262.9709,262.9709,USD,AWS,Amazon Elastic Compute Cloud,Compute,prod,us-east-1,i-07c1e9a4api,i-07c1e9a4api,Usage,"{""team"": ""api"", ""env"": ""prod""}"
+2026-08-27T00:00:00Z,2026-08-28T00:00:00Z,100.9324,100.9324,USD,AWS,Amazon Elastic Compute Cloud,Compute,staging,us-east-1,i-0bb2d11ci,i-0bb2d11ci,Usage,{}
+2026-08-27T00:00:00Z,2026-08-28T00:00:00Z,220.6607,220.6607,USD,AWS,Amazon Relational Database Service,Databases,prod,us-east-1,orders-db,orders-db,Usage,"{""team"": ""api"", ""env"": ""prod""}"
+2026-08-27T00:00:00Z,2026-08-28T00:00:00Z,121.8148,121.8148,USD,AWS,Amazon Simple Storage Service,Storage,prod,us-east-1,media-bucket,media-bucket,Usage,"{""team"": ""web"", ""env"": ""prod""}"
+2026-08-27T00:00:00Z,2026-08-28T00:00:00Z,61.1461,61.1461,USD,AWS,Amazon Simple Storage Service,Storage,prod,us-east-1,logs-archive,logs-archive,Usage,{}
+2026-08-27T00:00:00Z,2026-08-28T00:00:00Z,187.5444,187.5444,USD,Microsoft,Azure Kubernetes Service,Compute,analytics,brazilsouth,aks-ml,aks-ml,Usage,"{""team"": ""data"", ""env"": ""prod""}"
+2026-08-27T00:00:00Z,2026-08-28T00:00:00Z,141.8743,141.8743,USD,Google Cloud,BigQuery,Analytics,analytics,us,warehouse,warehouse,Usage,"{""team"": ""data"", ""env"": ""prod""}"
+2026-08-27T00:00:00Z,2026-08-28T00:00:00Z,45.1640,45.1640,USD,Google Cloud,Cloud Storage,Storage,analytics,us,datalake,datalake,Usage,"{""team"": ""data""}"
+2026-08-28T00:00:00Z,2026-08-29T00:00:00Z,438.5167,438.5167,USD,AWS,Amazon Elastic Compute Cloud,Compute,prod,us-east-1,i-0a91f3c2web,i-0a91f3c2web,Usage,"{""team"": ""web"", ""env"": ""prod""}"
+2026-08-28T00:00:00Z,2026-08-29T00:00:00Z,266.7508,266.7508,USD,AWS,Amazon Elastic Compute Cloud,Compute,prod,us-east-1,i-07c1e9a4api,i-07c1e9a4api,Usage,"{""team"": ""api"", ""env"": ""prod""}"
+2026-08-28T00:00:00Z,2026-08-29T00:00:00Z,98.2861,98.2861,USD,AWS,Amazon Elastic Compute Cloud,Compute,staging,us-east-1,i-0bb2d11ci,i-0bb2d11ci,Usage,{}
+2026-08-28T00:00:00Z,2026-08-29T00:00:00Z,220.3836,220.3836,USD,AWS,Amazon Relational Database Service,Databases,prod,us-east-1,orders-db,orders-db,Usage,"{""team"": ""api"", ""env"": ""prod""}"
+2026-08-28T00:00:00Z,2026-08-29T00:00:00Z,117.9991,117.9991,USD,AWS,Amazon Simple Storage Service,Storage,prod,us-east-1,media-bucket,media-bucket,Usage,"{""team"": ""web"", ""env"": ""prod""}"
+2026-08-28T00:00:00Z,2026-08-29T00:00:00Z,61.6482,61.6482,USD,AWS,Amazon Simple Storage Service,Storage,prod,us-east-1,logs-archive,logs-archive,Usage,{}
+2026-08-28T00:00:00Z,2026-08-29T00:00:00Z,183.9199,183.9199,USD,Microsoft,Azure Kubernetes Service,Compute,analytics,brazilsouth,aks-ml,aks-ml,Usage,"{""team"": ""data"", ""env"": ""prod""}"
+2026-08-28T00:00:00Z,2026-08-29T00:00:00Z,135.8824,135.8824,USD,Google Cloud,BigQuery,Analytics,analytics,us,warehouse,warehouse,Usage,"{""team"": ""data"", ""env"": ""prod""}"
+2026-08-28T00:00:00Z,2026-08-29T00:00:00Z,46.8134,46.8134,USD,Google Cloud,Cloud Storage,Storage,analytics,us,datalake,datalake,Usage,"{""team"": ""data""}"
+2026-08-29T00:00:00Z,2026-08-30T00:00:00Z,305.5671,305.5671,USD,AWS,Amazon Elastic Compute Cloud,Compute,prod,us-east-1,i-0a91f3c2web,i-0a91f3c2web,Usage,"{""team"": ""web"", ""env"": ""prod""}"
+2026-08-29T00:00:00Z,2026-08-30T00:00:00Z,222.5050,222.5050,USD,AWS,Amazon Elastic Compute Cloud,Compute,prod,us-east-1,i-07c1e9a4api,i-07c1e9a4api,Usage,"{""team"": ""api"", ""env"": ""prod""}"
+2026-08-29T00:00:00Z,2026-08-30T00:00:00Z,82.0612,82.0612,USD,AWS,Amazon Elastic Compute Cloud,Compute,staging,us-east-1,i-0bb2d11ci,i-0bb2d11ci,Usage,{}
+2026-08-29T00:00:00Z,2026-08-30T00:00:00Z,248.2563,248.2563,USD,AWS,Amazon Relational Database Service,Databases,prod,us-east-1,orders-db,orders-db,Usage,"{""team"": ""api"", ""env"": ""prod""}"
+2026-08-29T00:00:00Z,2026-08-30T00:00:00Z,111.8066,111.8066,USD,AWS,Amazon Simple Storage Service,Storage,prod,us-east-1,media-bucket,media-bucket,Usage,"{""team"": ""web"", ""env"": ""prod""}"
+2026-08-29T00:00:00Z,2026-08-30T00:00:00Z,57.2463,57.2463,USD,AWS,Amazon Simple Storage Service,Storage,prod,us-east-1,logs-archive,logs-archive,Usage,{}
+2026-08-29T00:00:00Z,2026-08-30T00:00:00Z,146.2897,146.2897,USD,Microsoft,Azure Kubernetes Service,Compute,analytics,brazilsouth,aks-ml,aks-ml,Usage,"{""team"": ""data"", ""env"": ""prod""}"
+2026-08-29T00:00:00Z,2026-08-30T00:00:00Z,149.7050,149.7050,USD,Google Cloud,BigQuery,Analytics,analytics,us,warehouse,warehouse,Usage,"{""team"": ""data"", ""env"": ""prod""}"
+2026-08-29T00:00:00Z,2026-08-30T00:00:00Z,47.7422,47.7422,USD,Google Cloud,Cloud Storage,Storage,analytics,us,datalake,datalake,Usage,"{""team"": ""data""}"
+2026-08-30T00:00:00Z,2026-08-31T00:00:00Z,347.9041,347.9041,USD,AWS,Amazon Elastic Compute Cloud,Compute,prod,us-east-1,i-0a91f3c2web,i-0a91f3c2web,Usage,"{""team"": ""web"", ""env"": ""prod""}"
+2026-08-30T00:00:00Z,2026-08-31T00:00:00Z,219.3239,219.3239,USD,AWS,Amazon Elastic Compute Cloud,Compute,prod,us-east-1,i-07c1e9a4api,i-07c1e9a4api,Usage,"{""team"": ""api"", ""env"": ""prod""}"
+2026-08-30T00:00:00Z,2026-08-31T00:00:00Z,71.8382,71.8382,USD,AWS,Amazon Elastic Compute Cloud,Compute,staging,us-east-1,i-0bb2d11ci,i-0bb2d11ci,Usage,{}
+2026-08-30T00:00:00Z,2026-08-31T00:00:00Z,242.2818,242.2818,USD,AWS,Amazon Relational Database Service,Databases,prod,us-east-1,orders-db,orders-db,Usage,"{""team"": ""api"", ""env"": ""prod""}"
+2026-08-30T00:00:00Z,2026-08-31T00:00:00Z,123.9080,123.9080,USD,AWS,Amazon Simple Storage Service,Storage,prod,us-east-1,media-bucket,media-bucket,Usage,"{""team"": ""web"", ""env"": ""prod""}"
+2026-08-30T00:00:00Z,2026-08-31T00:00:00Z,61.0721,61.0721,USD,AWS,Amazon Simple Storage Service,Storage,prod,us-east-1,logs-archive,logs-archive,Usage,{}
+2026-08-30T00:00:00Z,2026-08-31T00:00:00Z,163.8495,163.8495,USD,Microsoft,Azure Kubernetes Service,Compute,analytics,brazilsouth,aks-ml,aks-ml,Usage,"{""team"": ""data"", ""env"": ""prod""}"
+2026-08-30T00:00:00Z,2026-08-31T00:00:00Z,143.4491,143.4491,USD,Google Cloud,BigQuery,Analytics,analytics,us,warehouse,warehouse,Usage,"{""team"": ""data"", ""env"": ""prod""}"
+2026-08-30T00:00:00Z,2026-08-31T00:00:00Z,41.4563,41.4563,USD,Google Cloud,Cloud Storage,Storage,analytics,us,datalake,datalake,Usage,"{""team"": ""data""}"
+2026-08-31T00:00:00Z,2026-09-01T00:00:00Z,430.8020,430.8020,USD,AWS,Amazon Elastic Compute Cloud,Compute,prod,us-east-1,i-0a91f3c2web,i-0a91f3c2web,Usage,"{""team"": ""web"", ""env"": ""prod""}"
+2026-08-31T00:00:00Z,2026-09-01T00:00:00Z,271.0122,271.0122,USD,AWS,Amazon Elastic Compute Cloud,Compute,prod,us-east-1,i-07c1e9a4api,i-07c1e9a4api,Usage,"{""team"": ""api"", ""env"": ""prod""}"
+2026-08-31T00:00:00Z,2026-09-01T00:00:00Z,97.4835,97.4835,USD,AWS,Amazon Elastic Compute Cloud,Compute,staging,us-east-1,i-0bb2d11ci,i-0bb2d11ci,Usage,{}
+2026-08-31T00:00:00Z,2026-09-01T00:00:00Z,246.1526,246.1526,USD,AWS,Amazon Relational Database Service,Databases,prod,us-east-1,orders-db,orders-db,Usage,"{""team"": ""api"", ""env"": ""prod""}"
+2026-08-31T00:00:00Z,2026-09-01T00:00:00Z,112.9784,112.9784,USD,AWS,Amazon Simple Storage Service,Storage,prod,us-east-1,media-bucket,media-bucket,Usage,"{""team"": ""web"", ""env"": ""prod""}"
+2026-08-31T00:00:00Z,2026-09-01T00:00:00Z,56.3081,56.3081,USD,AWS,Amazon Simple Storage Service,Storage,prod,us-east-1,logs-archive,logs-archive,Usage,{}
+2026-08-31T00:00:00Z,2026-09-01T00:00:00Z,178.0539,178.0539,USD,Microsoft,Azure Kubernetes Service,Compute,analytics,brazilsouth,aks-ml,aks-ml,Usage,"{""team"": ""data"", ""env"": ""prod""}"
+2026-08-31T00:00:00Z,2026-09-01T00:00:00Z,141.1922,141.1922,USD,Google Cloud,BigQuery,Analytics,analytics,us,warehouse,warehouse,Usage,"{""team"": ""data"", ""env"": ""prod""}"
+2026-08-31T00:00:00Z,2026-09-01T00:00:00Z,43.3609,43.3609,USD,Google Cloud,Cloud Storage,Storage,analytics,us,datalake,datalake,Usage,"{""team"": ""data""}"
+2026-09-01T00:00:00Z,2026-09-02T00:00:00Z,416.8768,416.8768,USD,AWS,Amazon Elastic Compute Cloud,Compute,prod,us-east-1,i-0a91f3c2web,i-0a91f3c2web,Usage,"{""team"": ""web"", ""env"": ""prod""}"
+2026-09-01T00:00:00Z,2026-09-02T00:00:00Z,289.7490,289.7490,USD,AWS,Amazon Elastic Compute Cloud,Compute,prod,us-east-1,i-07c1e9a4api,i-07c1e9a4api,Usage,"{""team"": ""api"", ""env"": ""prod""}"
+2026-09-01T00:00:00Z,2026-09-02T00:00:00Z,90.4947,90.4947,USD,AWS,Amazon Elastic Compute Cloud,Compute,staging,us-east-1,i-0bb2d11ci,i-0bb2d11ci,Usage,{}
+2026-09-01T00:00:00Z,2026-09-02T00:00:00Z,234.9400,234.9400,USD,AWS,Amazon Relational Database Service,Databases,prod,us-east-1,orders-db,orders-db,Usage,"{""team"": ""api"", ""env"": ""prod""}"
+2026-09-01T00:00:00Z,2026-09-02T00:00:00Z,115.4685,115.4685,USD,AWS,Amazon Simple Storage Service,Storage,prod,us-east-1,media-bucket,media-bucket,Usage,"{""team"": ""web"", ""env"": ""prod""}"
+2026-09-01T00:00:00Z,2026-09-02T00:00:00Z,59.8899,59.8899,USD,AWS,Amazon Simple Storage Service,Storage,prod,us-east-1,logs-archive,logs-archive,Usage,{}
+2026-09-01T00:00:00Z,2026-09-02T00:00:00Z,202.3222,202.3222,USD,Microsoft,Azure Kubernetes Service,Compute,analytics,brazilsouth,aks-ml,aks-ml,Usage,"{""team"": ""data"", ""env"": ""prod""}"
+2026-09-01T00:00:00Z,2026-09-02T00:00:00Z,147.7527,147.7527,USD,Google Cloud,BigQuery,Analytics,analytics,us,warehouse,warehouse,Usage,"{""team"": ""data"", ""env"": ""prod""}"
+2026-09-01T00:00:00Z,2026-09-02T00:00:00Z,42.0645,42.0645,USD,Google Cloud,Cloud Storage,Storage,analytics,us,datalake,datalake,Usage,"{""team"": ""data""}"
+2026-09-01T00:00:00Z,2026-09-02T00:00:00Z,300.0000,300.0000,USD,AWS,Support,Other,analytics,us,,,Purchase,{}
+2026-09-01T00:00:00Z,2026-09-02T00:00:00Z,-150.0000,-150.0000,USD,AWS,Amazon Elastic Compute Cloud,Compute,analytics,us,,,Credit,{}
+2026-09-02T00:00:00Z,2026-09-03T00:00:00Z,404.9866,404.9866,USD,AWS,Amazon Elastic Compute Cloud,Compute,prod,us-east-1,i-0a91f3c2web,i-0a91f3c2web,Usage,"{""team"": ""web"", ""env"": ""prod""}"
+2026-09-02T00:00:00Z,2026-09-03T00:00:00Z,269.9953,269.9953,USD,AWS,Amazon Elastic Compute Cloud,Compute,prod,us-east-1,i-07c1e9a4api,i-07c1e9a4api,Usage,"{""team"": ""api"", ""env"": ""prod""}"
+2026-09-02T00:00:00Z,2026-09-03T00:00:00Z,87.4539,87.4539,USD,AWS,Amazon Elastic Compute Cloud,Compute,staging,us-east-1,i-0bb2d11ci,i-0bb2d11ci,Usage,{}
+2026-09-02T00:00:00Z,2026-09-03T00:00:00Z,239.9772,239.9772,USD,AWS,Amazon Relational Database Service,Databases,prod,us-east-1,orders-db,orders-db,Usage,"{""team"": ""api"", ""env"": ""prod""}"
+2026-09-02T00:00:00Z,2026-09-03T00:00:00Z,122.6326,122.6326,USD,AWS,Amazon Simple Storage Service,Storage,prod,us-east-1,media-bucket,media-bucket,Usage,"{""team"": ""web"", ""env"": ""prod""}"
+2026-09-02T00:00:00Z,2026-09-03T00:00:00Z,57.7148,57.7148,USD,AWS,Amazon Simple Storage Service,Storage,prod,us-east-1,logs-archive,logs-archive,Usage,{}
+2026-09-02T00:00:00Z,2026-09-03T00:00:00Z,197.3334,197.3334,USD,Microsoft,Azure Kubernetes Service,Compute,analytics,brazilsouth,aks-ml,aks-ml,Usage,"{""team"": ""data"", ""env"": ""prod""}"
+2026-09-02T00:00:00Z,2026-09-03T00:00:00Z,141.1576,141.1576,USD,Google Cloud,BigQuery,Analytics,analytics,us,warehouse,warehouse,Usage,"{""team"": ""data"", ""env"": ""prod""}"
+2026-09-02T00:00:00Z,2026-09-03T00:00:00Z,44.4793,44.4793,USD,Google Cloud,Cloud Storage,Storage,analytics,us,datalake,datalake,Usage,"{""team"": ""data""}"
+2026-09-03T00:00:00Z,2026-09-04T00:00:00Z,377.8343,377.8343,USD,AWS,Amazon Elastic Compute Cloud,Compute,prod,us-east-1,i-0a91f3c2web,i-0a91f3c2web,Usage,"{""team"": ""web"", ""env"": ""prod""}"
+2026-09-03T00:00:00Z,2026-09-04T00:00:00Z,260.9709,260.9709,USD,AWS,Amazon Elastic Compute Cloud,Compute,prod,us-east-1,i-07c1e9a4api,i-07c1e9a4api,Usage,"{""team"": ""api"", ""env"": ""prod""}"
+2026-09-03T00:00:00Z,2026-09-04T00:00:00Z,100.8232,100.8232,USD,AWS,Amazon Elastic Compute Cloud,Compute,staging,us-east-1,i-0bb2d11ci,i-0bb2d11ci,Usage,{}
+2026-09-03T00:00:00Z,2026-09-04T00:00:00Z,244.8646,244.8646,USD,AWS,Amazon Relational Database Service,Databases,prod,us-east-1,orders-db,orders-db,Usage,"{""team"": ""api"", ""env"": ""prod""}"
+2026-09-03T00:00:00Z,2026-09-04T00:00:00Z,120.8753,120.8753,USD,AWS,Amazon Simple Storage Service,Storage,prod,us-east-1,media-bucket,media-bucket,Usage,"{""team"": ""web"", ""env"": ""prod""}"
+2026-09-03T00:00:00Z,2026-09-04T00:00:00Z,63.2121,63.2121,USD,AWS,Amazon Simple Storage Service,Storage,prod,us-east-1,logs-archive,logs-archive,Usage,{}
+2026-09-03T00:00:00Z,2026-09-04T00:00:00Z,192.5083,192.5083,USD,Microsoft,Azure Kubernetes Service,Compute,analytics,brazilsouth,aks-ml,aks-ml,Usage,"{""team"": ""data"", ""env"": ""prod""}"
+2026-09-03T00:00:00Z,2026-09-04T00:00:00Z,132.1173,132.1173,USD,Google Cloud,BigQuery,Analytics,analytics,us,warehouse,warehouse,Usage,"{""team"": ""data"", ""env"": ""prod""}"
+2026-09-03T00:00:00Z,2026-09-04T00:00:00Z,42.3176,42.3176,USD,Google Cloud,Cloud Storage,Storage,analytics,us,datalake,datalake,Usage,"{""team"": ""data""}"
+2026-09-04T00:00:00Z,2026-09-05T00:00:00Z,397.4217,397.4217,USD,AWS,Amazon Elastic Compute Cloud,Compute,prod,us-east-1,i-0a91f3c2web,i-0a91f3c2web,Usage,"{""team"": ""web"", ""env"": ""prod""}"
+2026-09-04T00:00:00Z,2026-09-05T00:00:00Z,297.8744,297.8744,USD,AWS,Amazon Elastic Compute Cloud,Compute,prod,us-east-1,i-07c1e9a4api,i-07c1e9a4api,Usage,"{""team"": ""api"", ""env"": ""prod""}"
+2026-09-04T00:00:00Z,2026-09-05T00:00:00Z,99.5011,99.5011,USD,AWS,Amazon Elastic Compute Cloud,Compute,staging,us-east-1,i-0bb2d11ci,i-0bb2d11ci,Usage,{}
+2026-09-04T00:00:00Z,2026-09-05T00:00:00Z,243.2739,243.2739,USD,AWS,Amazon Relational Database Service,Databases,prod,us-east-1,orders-db,orders-db,Usage,"{""team"": ""api"", ""env"": ""prod""}"
+2026-09-04T00:00:00Z,2026-09-05T00:00:00Z,127.6594,127.6594,USD,AWS,Amazon Simple Storage Service,Storage,prod,us-east-1,media-bucket,media-bucket,Usage,"{""team"": ""web"", ""env"": ""prod""}"
+2026-09-04T00:00:00Z,2026-09-05T00:00:00Z,57.2167,57.2167,USD,AWS,Amazon Simple Storage Service,Storage,prod,us-east-1,logs-archive,logs-archive,Usage,{}
+2026-09-04T00:00:00Z,2026-09-05T00:00:00Z,182.3857,182.3857,USD,Microsoft,Azure Kubernetes Service,Compute,analytics,brazilsouth,aks-ml,aks-ml,Usage,"{""team"": ""data"", ""env"": ""prod""}"
+2026-09-04T00:00:00Z,2026-09-05T00:00:00Z,131.1026,131.1026,USD,Google Cloud,BigQuery,Analytics,analytics,us,warehouse,warehouse,Usage,"{""team"": ""data"", ""env"": ""prod""}"
+2026-09-04T00:00:00Z,2026-09-05T00:00:00Z,47.0168,47.0168,USD,Google Cloud,Cloud Storage,Storage,analytics,us,datalake,datalake,Usage,"{""team"": ""data""}"
+2026-09-05T00:00:00Z,2026-09-06T00:00:00Z,348.1594,348.1594,USD,AWS,Amazon Elastic Compute Cloud,Compute,prod,us-east-1,i-0a91f3c2web,i-0a91f3c2web,Usage,"{""team"": ""web"", ""env"": ""prod""}"
+2026-09-05T00:00:00Z,2026-09-06T00:00:00Z,220.6446,220.6446,USD,AWS,Amazon Elastic Compute Cloud,Compute,prod,us-east-1,i-07c1e9a4api,i-07c1e9a4api,Usage,"{""team"": ""api"", ""env"": ""prod""}"
+2026-09-05T00:00:00Z,2026-09-06T00:00:00Z,77.4672,77.4672,USD,AWS,Amazon Elastic Compute Cloud,Compute,staging,us-east-1,i-0bb2d11ci,i-0bb2d11ci,Usage,{}
+2026-09-05T00:00:00Z,2026-09-06T00:00:00Z,217.2876,217.2876,USD,AWS,Amazon Relational Database Service,Databases,prod,us-east-1,orders-db,orders-db,Usage,"{""team"": ""api"", ""env"": ""prod""}"
+2026-09-05T00:00:00Z,2026-09-06T00:00:00Z,128.2537,128.2537,USD,AWS,Amazon Simple Storage Service,Storage,prod,us-east-1,media-bucket,media-bucket,Usage,"{""team"": ""web"", ""env"": ""prod""}"
+2026-09-05T00:00:00Z,2026-09-06T00:00:00Z,63.5002,63.5002,USD,AWS,Amazon Simple Storage Service,Storage,prod,us-east-1,logs-archive,logs-archive,Usage,{}
+2026-09-05T00:00:00Z,2026-09-06T00:00:00Z,163.5813,163.5813,USD,Microsoft,Azure Kubernetes Service,Compute,analytics,brazilsouth,aks-ml,aks-ml,Usage,"{""team"": ""data"", ""env"": ""prod""}"
+2026-09-05T00:00:00Z,2026-09-06T00:00:00Z,146.9613,146.9613,USD,Google Cloud,BigQuery,Analytics,analytics,us,warehouse,warehouse,Usage,"{""team"": ""data"", ""env"": ""prod""}"
+2026-09-05T00:00:00Z,2026-09-06T00:00:00Z,47.7462,47.7462,USD,Google Cloud,Cloud Storage,Storage,analytics,us,datalake,datalake,Usage,"{""team"": ""data""}"
+2026-09-06T00:00:00Z,2026-09-07T00:00:00Z,303.0608,303.0608,USD,AWS,Amazon Elastic Compute Cloud,Compute,prod,us-east-1,i-0a91f3c2web,i-0a91f3c2web,Usage,"{""team"": ""web"", ""env"": ""prod""}"
+2026-09-06T00:00:00Z,2026-09-07T00:00:00Z,232.4785,232.4785,USD,AWS,Amazon Elastic Compute Cloud,Compute,prod,us-east-1,i-07c1e9a4api,i-07c1e9a4api,Usage,"{""team"": ""api"", ""env"": ""prod""}"
+2026-09-06T00:00:00Z,2026-09-07T00:00:00Z,73.9594,73.9594,USD,AWS,Amazon Elastic Compute Cloud,Compute,staging,us-east-1,i-0bb2d11ci,i-0bb2d11ci,Usage,{}
+2026-09-06T00:00:00Z,2026-09-07T00:00:00Z,245.8540,245.8540,USD,AWS,Amazon Relational Database Service,Databases,prod,us-east-1,orders-db,orders-db,Usage,"{""team"": ""api"", ""env"": ""prod""}"
+2026-09-06T00:00:00Z,2026-09-07T00:00:00Z,125.8029,125.8029,USD,AWS,Amazon Simple Storage Service,Storage,prod,us-east-1,media-bucket,media-bucket,Usage,"{""team"": ""web"", ""env"": ""prod""}"
+2026-09-06T00:00:00Z,2026-09-07T00:00:00Z,63.4950,63.4950,USD,AWS,Amazon Simple Storage Service,Storage,prod,us-east-1,logs-archive,logs-archive,Usage,{}
+2026-09-06T00:00:00Z,2026-09-07T00:00:00Z,159.5574,159.5574,USD,Microsoft,Azure Kubernetes Service,Compute,analytics,brazilsouth,aks-ml,aks-ml,Usage,"{""team"": ""data"", ""env"": ""prod""}"
+2026-09-06T00:00:00Z,2026-09-07T00:00:00Z,134.7764,134.7764,USD,Google Cloud,BigQuery,Analytics,analytics,us,warehouse,warehouse,Usage,"{""team"": ""data"", ""env"": ""prod""}"
+2026-09-06T00:00:00Z,2026-09-07T00:00:00Z,47.0691,47.0691,USD,Google Cloud,Cloud Storage,Storage,analytics,us,datalake,datalake,Usage,"{""team"": ""data""}"
+2026-09-07T00:00:00Z,2026-09-08T00:00:00Z,384.2911,384.2911,USD,AWS,Amazon Elastic Compute Cloud,Compute,prod,us-east-1,i-0a91f3c2web,i-0a91f3c2web,Usage,"{""team"": ""web"", ""env"": ""prod""}"
+2026-09-07T00:00:00Z,2026-09-08T00:00:00Z,296.6731,296.6731,USD,AWS,Amazon Elastic Compute Cloud,Compute,prod,us-east-1,i-07c1e9a4api,i-07c1e9a4api,Usage,"{""team"": ""api"", ""env"": ""prod""}"
+2026-09-07T00:00:00Z,2026-09-08T00:00:00Z,100.4506,100.4506,USD,AWS,Amazon Elastic Compute Cloud,Compute,staging,us-east-1,i-0bb2d11ci,i-0bb2d11ci,Usage,{}
+2026-09-07T00:00:00Z,2026-09-08T00:00:00Z,219.7856,219.7856,USD,AWS,Amazon Relational Database Service,Databases,prod,us-east-1,orders-db,orders-db,Usage,"{""team"": ""api"", ""env"": ""prod""}"
+2026-09-07T00:00:00Z,2026-09-08T00:00:00Z,126.0785,126.0785,USD,AWS,Amazon Simple Storage Service,Storage,prod,us-east-1,media-bucket,media-bucket,Usage,"{""team"": ""web"", ""env"": ""prod""}"
+2026-09-07T00:00:00Z,2026-09-08T00:00:00Z,59.6189,59.6189,USD,AWS,Amazon Simple Storage Service,Storage,prod,us-east-1,logs-archive,logs-archive,Usage,{}
+2026-09-07T00:00:00Z,2026-09-08T00:00:00Z,184.0778,184.0778,USD,Microsoft,Azure Kubernetes Service,Compute,analytics,brazilsouth,aks-ml,aks-ml,Usage,"{""team"": ""data"", ""env"": ""prod""}"
+2026-09-07T00:00:00Z,2026-09-08T00:00:00Z,146.6157,146.6157,USD,Google Cloud,BigQuery,Analytics,analytics,us,warehouse,warehouse,Usage,"{""team"": ""data"", ""env"": ""prod""}"
+2026-09-07T00:00:00Z,2026-09-08T00:00:00Z,43.0387,43.0387,USD,Google Cloud,Cloud Storage,Storage,analytics,us,datalake,datalake,Usage,"{""team"": ""data""}"
+2026-09-08T00:00:00Z,2026-09-09T00:00:00Z,378.7524,378.7524,USD,AWS,Amazon Elastic Compute Cloud,Compute,prod,us-east-1,i-0a91f3c2web,i-0a91f3c2web,Usage,"{""team"": ""web"", ""env"": ""prod""}"
+2026-09-08T00:00:00Z,2026-09-09T00:00:00Z,266.2522,266.2522,USD,AWS,Amazon Elastic Compute Cloud,Compute,prod,us-east-1,i-07c1e9a4api,i-07c1e9a4api,Usage,"{""team"": ""api"", ""env"": ""prod""}"
+2026-09-08T00:00:00Z,2026-09-09T00:00:00Z,92.3896,92.3896,USD,AWS,Amazon Elastic Compute Cloud,Compute,staging,us-east-1,i-0bb2d11ci,i-0bb2d11ci,Usage,{}
+2026-09-08T00:00:00Z,2026-09-09T00:00:00Z,243.4082,243.4082,USD,AWS,Amazon Relational Database Service,Databases,prod,us-east-1,orders-db,orders-db,Usage,"{""team"": ""api"", ""env"": ""prod""}"
+2026-09-08T00:00:00Z,2026-09-09T00:00:00Z,128.9643,128.9643,USD,AWS,Amazon Simple Storage Service,Storage,prod,us-east-1,media-bucket,media-bucket,Usage,"{""team"": ""web"", ""env"": ""prod""}"
+2026-09-08T00:00:00Z,2026-09-09T00:00:00Z,57.8796,57.8796,USD,AWS,Amazon Simple Storage Service,Storage,prod,us-east-1,logs-archive,logs-archive,Usage,{}
+2026-09-08T00:00:00Z,2026-09-09T00:00:00Z,194.3010,194.3010,USD,Microsoft,Azure Kubernetes Service,Compute,analytics,brazilsouth,aks-ml,aks-ml,Usage,"{""team"": ""data"", ""env"": ""prod""}"
+2026-09-08T00:00:00Z,2026-09-09T00:00:00Z,137.7528,137.7528,USD,Google Cloud,BigQuery,Analytics,analytics,us,warehouse,warehouse,Usage,"{""team"": ""data"", ""env"": ""prod""}"
+2026-09-08T00:00:00Z,2026-09-09T00:00:00Z,48.4643,48.4643,USD,Google Cloud,Cloud Storage,Storage,analytics,us,datalake,datalake,Usage,"{""team"": ""data""}"
+2026-09-09T00:00:00Z,2026-09-10T00:00:00Z,412.3758,412.3758,USD,AWS,Amazon Elastic Compute Cloud,Compute,prod,us-east-1,i-0a91f3c2web,i-0a91f3c2web,Usage,"{""team"": ""web"", ""env"": ""prod""}"
+2026-09-09T00:00:00Z,2026-09-10T00:00:00Z,299.6778,299.6778,USD,AWS,Amazon Elastic Compute Cloud,Compute,prod,us-east-1,i-07c1e9a4api,i-07c1e9a4api,Usage,"{""team"": ""api"", ""env"": ""prod""}"
+2026-09-09T00:00:00Z,2026-09-10T00:00:00Z,89.1532,89.1532,USD,AWS,Amazon Elastic Compute Cloud,Compute,staging,us-east-1,i-0bb2d11ci,i-0bb2d11ci,Usage,{}
+2026-09-09T00:00:00Z,2026-09-10T00:00:00Z,247.3107,247.3107,USD,AWS,Amazon Relational Database Service,Databases,prod,us-east-1,orders-db,orders-db,Usage,"{""team"": ""api"", ""env"": ""prod""}"
+2026-09-09T00:00:00Z,2026-09-10T00:00:00Z,113.8285,113.8285,USD,AWS,Amazon Simple Storage Service,Storage,prod,us-east-1,media-bucket,media-bucket,Usage,"{""team"": ""web"", ""env"": ""prod""}"
+2026-09-09T00:00:00Z,2026-09-10T00:00:00Z,64.4403,64.4403,USD,AWS,Amazon Simple Storage Service,Storage,prod,us-east-1,logs-archive,logs-archive,Usage,{}
+2026-09-09T00:00:00Z,2026-09-10T00:00:00Z,182.8702,182.8702,USD,Microsoft,Azure Kubernetes Service,Compute,analytics,brazilsouth,aks-ml,aks-ml,Usage,"{""team"": ""data"", ""env"": ""prod""}"
+2026-09-09T00:00:00Z,2026-09-10T00:00:00Z,131.2282,131.2282,USD,Google Cloud,BigQuery,Analytics,analytics,us,warehouse,warehouse,Usage,"{""team"": ""data"", ""env"": ""prod""}"
+2026-09-09T00:00:00Z,2026-09-10T00:00:00Z,44.5289,44.5289,USD,Google Cloud,Cloud Storage,Storage,analytics,us,datalake,datalake,Usage,"{""team"": ""data""}"
+2026-09-10T00:00:00Z,2026-09-11T00:00:00Z,424.9926,424.9926,USD,AWS,Amazon Elastic Compute Cloud,Compute,prod,us-east-1,i-0a91f3c2web,i-0a91f3c2web,Usage,"{""team"": ""web"", ""env"": ""prod""}"
+2026-09-10T00:00:00Z,2026-09-11T00:00:00Z,271.6527,271.6527,USD,AWS,Amazon Elastic Compute Cloud,Compute,prod,us-east-1,i-07c1e9a4api,i-07c1e9a4api,Usage,"{""team"": ""api"", ""env"": ""prod""}"
+2026-09-10T00:00:00Z,2026-09-11T00:00:00Z,96.6144,96.6144,USD,AWS,Amazon Elastic Compute Cloud,Compute,staging,us-east-1,i-0bb2d11ci,i-0bb2d11ci,Usage,{}
+2026-09-10T00:00:00Z,2026-09-11T00:00:00Z,230.4204,230.4204,USD,AWS,Amazon Relational Database Service,Databases,prod,us-east-1,orders-db,orders-db,Usage,"{""team"": ""api"", ""env"": ""prod""}"
+2026-09-10T00:00:00Z,2026-09-11T00:00:00Z,117.7958,117.7958,USD,AWS,Amazon Simple Storage Service,Storage,prod,us-east-1,media-bucket,media-bucket,Usage,"{""team"": ""web"", ""env"": ""prod""}"
+2026-09-10T00:00:00Z,2026-09-11T00:00:00Z,60.7352,60.7352,USD,AWS,Amazon Simple Storage Service,Storage,prod,us-east-1,logs-archive,logs-archive,Usage,{}
+2026-09-10T00:00:00Z,2026-09-11T00:00:00Z,182.5436,182.5436,USD,Microsoft,Azure Kubernetes Service,Compute,analytics,brazilsouth,aks-ml,aks-ml,Usage,"{""team"": ""data"", ""env"": ""prod""}"
+2026-09-10T00:00:00Z,2026-09-11T00:00:00Z,144.6768,144.6768,USD,Google Cloud,BigQuery,Analytics,analytics,us,warehouse,warehouse,Usage,"{""team"": ""data"", ""env"": ""prod""}"
+2026-09-10T00:00:00Z,2026-09-11T00:00:00Z,41.4122,41.4122,USD,Google Cloud,Cloud Storage,Storage,analytics,us,datalake,datalake,Usage,"{""team"": ""data""}"
+2026-09-11T00:00:00Z,2026-09-12T00:00:00Z,437.9177,437.9177,USD,AWS,Amazon Elastic Compute Cloud,Compute,prod,us-east-1,i-0a91f3c2web,i-0a91f3c2web,Usage,"{""team"": ""web"", ""env"": ""prod""}"
+2026-09-11T00:00:00Z,2026-09-12T00:00:00Z,281.7226,281.7226,USD,AWS,Amazon Elastic Compute Cloud,Compute,prod,us-east-1,i-07c1e9a4api,i-07c1e9a4api,Usage,"{""team"": ""api"", ""env"": ""prod""}"
+2026-09-11T00:00:00Z,2026-09-12T00:00:00Z,98.3353,98.3353,USD,AWS,Amazon Elastic Compute Cloud,Compute,staging,us-east-1,i-0bb2d11ci,i-0bb2d11ci,Usage,{}
+2026-09-11T00:00:00Z,2026-09-12T00:00:00Z,238.9038,238.9038,USD,AWS,Amazon Relational Database Service,Databases,prod,us-east-1,orders-db,orders-db,Usage,"{""team"": ""api"", ""env"": ""prod""}"
+2026-09-11T00:00:00Z,2026-09-12T00:00:00Z,123.2761,123.2761,USD,AWS,Amazon Simple Storage Service,Storage,prod,us-east-1,media-bucket,media-bucket,Usage,"{""team"": ""web"", ""env"": ""prod""}"
+2026-09-11T00:00:00Z,2026-09-12T00:00:00Z,58.6965,58.6965,USD,AWS,Amazon Simple Storage Service,Storage,prod,us-east-1,logs-archive,logs-archive,Usage,{}
+2026-09-11T00:00:00Z,2026-09-12T00:00:00Z,176.9272,176.9272,USD,Microsoft,Azure Kubernetes Service,Compute,analytics,brazilsouth,aks-ml,aks-ml,Usage,"{""team"": ""data"", ""env"": ""prod""}"
+2026-09-11T00:00:00Z,2026-09-12T00:00:00Z,143.6789,143.6789,USD,Google Cloud,BigQuery,Analytics,analytics,us,warehouse,warehouse,Usage,"{""team"": ""data"", ""env"": ""prod""}"
+2026-09-11T00:00:00Z,2026-09-12T00:00:00Z,43.7774,43.7774,USD,Google Cloud,Cloud Storage,Storage,analytics,us,datalake,datalake,Usage,"{""team"": ""data""}"
+2026-09-12T00:00:00Z,2026-09-13T00:00:00Z,318.2343,318.2343,USD,AWS,Amazon Elastic Compute Cloud,Compute,prod,us-east-1,i-0a91f3c2web,i-0a91f3c2web,Usage,"{""team"": ""web"", ""env"": ""prod""}"
+2026-09-12T00:00:00Z,2026-09-13T00:00:00Z,236.4729,236.4729,USD,AWS,Amazon Elastic Compute Cloud,Compute,prod,us-east-1,i-07c1e9a4api,i-07c1e9a4api,Usage,"{""team"": ""api"", ""env"": ""prod""}"
+2026-09-12T00:00:00Z,2026-09-13T00:00:00Z,78.6722,78.6722,USD,AWS,Amazon Elastic Compute Cloud,Compute,staging,us-east-1,i-0bb2d11ci,i-0bb2d11ci,Usage,{}
+2026-09-12T00:00:00Z,2026-09-13T00:00:00Z,222.6519,222.6519,USD,AWS,Amazon Relational Database Service,Databases,prod,us-east-1,orders-db,orders-db,Usage,"{""team"": ""api"", ""env"": ""prod""}"
+2026-09-12T00:00:00Z,2026-09-13T00:00:00Z,116.3383,116.3383,USD,AWS,Amazon Simple Storage Service,Storage,prod,us-east-1,media-bucket,media-bucket,Usage,"{""team"": ""web"", ""env"": ""prod""}"
+2026-09-12T00:00:00Z,2026-09-13T00:00:00Z,59.1206,59.1206,USD,AWS,Amazon Simple Storage Service,Storage,prod,us-east-1,logs-archive,logs-archive,Usage,{}
+2026-09-12T00:00:00Z,2026-09-13T00:00:00Z,149.6264,149.6264,USD,Microsoft,Azure Kubernetes Service,Compute,analytics,brazilsouth,aks-ml,aks-ml,Usage,"{""team"": ""data"", ""env"": ""prod""}"
+2026-09-12T00:00:00Z,2026-09-13T00:00:00Z,135.4227,135.4227,USD,Google Cloud,BigQuery,Analytics,analytics,us,warehouse,warehouse,Usage,"{""team"": ""data"", ""env"": ""prod""}"
+2026-09-12T00:00:00Z,2026-09-13T00:00:00Z,42.3165,42.3165,USD,Google Cloud,Cloud Storage,Storage,analytics,us,datalake,datalake,Usage,"{""team"": ""data""}"
+2026-09-13T00:00:00Z,2026-09-14T00:00:00Z,323.8250,323.8250,USD,AWS,Amazon Elastic Compute Cloud,Compute,prod,us-east-1,i-0a91f3c2web,i-0a91f3c2web,Usage,"{""team"": ""web"", ""env"": ""prod""}"
+2026-09-13T00:00:00Z,2026-09-14T00:00:00Z,239.7826,239.7826,USD,AWS,Amazon Elastic Compute Cloud,Compute,prod,us-east-1,i-07c1e9a4api,i-07c1e9a4api,Usage,"{""team"": ""api"", ""env"": ""prod""}"
+2026-09-13T00:00:00Z,2026-09-14T00:00:00Z,78.1562,78.1562,USD,AWS,Amazon Elastic Compute Cloud,Compute,staging,us-east-1,i-0bb2d11ci,i-0bb2d11ci,Usage,{}
+2026-09-13T00:00:00Z,2026-09-14T00:00:00Z,244.8232,244.8232,USD,AWS,Amazon Relational Database Service,Databases,prod,us-east-1,orders-db,orders-db,Usage,"{""team"": ""api"", ""env"": ""prod""}"
+2026-09-13T00:00:00Z,2026-09-14T00:00:00Z,122.2179,122.2179,USD,AWS,Amazon Simple Storage Service,Storage,prod,us-east-1,media-bucket,media-bucket,Usage,"{""team"": ""web"", ""env"": ""prod""}"
+2026-09-13T00:00:00Z,2026-09-14T00:00:00Z,58.0891,58.0891,USD,AWS,Amazon Simple Storage Service,Storage,prod,us-east-1,logs-archive,logs-archive,Usage,{}
+2026-09-13T00:00:00Z,2026-09-14T00:00:00Z,153.1658,153.1658,USD,Microsoft,Azure Kubernetes Service,Compute,analytics,brazilsouth,aks-ml,aks-ml,Usage,"{""team"": ""data"", ""env"": ""prod""}"
+2026-09-13T00:00:00Z,2026-09-14T00:00:00Z,128.8091,128.8091,USD,Google Cloud,BigQuery,Analytics,analytics,us,warehouse,warehouse,Usage,"{""team"": ""data"", ""env"": ""prod""}"
+2026-09-13T00:00:00Z,2026-09-14T00:00:00Z,43.4658,43.4658,USD,Google Cloud,Cloud Storage,Storage,analytics,us,datalake,datalake,Usage,"{""team"": ""data""}"
+2026-09-14T00:00:00Z,2026-09-15T00:00:00Z,405.4007,405.4007,USD,AWS,Amazon Elastic Compute Cloud,Compute,prod,us-east-1,i-0a91f3c2web,i-0a91f3c2web,Usage,"{""team"": ""web"", ""env"": ""prod""}"
+2026-09-14T00:00:00Z,2026-09-15T00:00:00Z,283.5833,283.5833,USD,AWS,Amazon Elastic Compute Cloud,Compute,prod,us-east-1,i-07c1e9a4api,i-07c1e9a4api,Usage,"{""team"": ""api"", ""env"": ""prod""}"
+2026-09-14T00:00:00Z,2026-09-15T00:00:00Z,97.3515,97.3515,USD,AWS,Amazon Elastic Compute Cloud,Compute,staging,us-east-1,i-0bb2d11ci,i-0bb2d11ci,Usage,{}
+2026-09-14T00:00:00Z,2026-09-15T00:00:00Z,228.7116,228.7116,USD,AWS,Amazon Relational Database Service,Databases,prod,us-east-1,orders-db,orders-db,Usage,"{""team"": ""api"", ""env"": ""prod""}"
+2026-09-14T00:00:00Z,2026-09-15T00:00:00Z,118.8895,118.8895,USD,AWS,Amazon Simple Storage Service,Storage,prod,us-east-1,media-bucket,media-bucket,Usage,"{""team"": ""web"", ""env"": ""prod""}"
+2026-09-14T00:00:00Z,2026-09-15T00:00:00Z,57.2515,57.2515,USD,AWS,Amazon Simple Storage Service,Storage,prod,us-east-1,logs-archive,logs-archive,Usage,{}
+2026-09-14T00:00:00Z,2026-09-15T00:00:00Z,189.1849,189.1849,USD,Microsoft,Azure Kubernetes Service,Compute,analytics,brazilsouth,aks-ml,aks-ml,Usage,"{""team"": ""data"", ""env"": ""prod""}"
+2026-09-14T00:00:00Z,2026-09-15T00:00:00Z,148.9865,148.9865,USD,Google Cloud,BigQuery,Analytics,analytics,us,warehouse,warehouse,Usage,"{""team"": ""data"", ""env"": ""prod""}"
+2026-09-14T00:00:00Z,2026-09-15T00:00:00Z,47.1314,47.1314,USD,Google Cloud,Cloud Storage,Storage,analytics,us,datalake,datalake,Usage,"{""team"": ""data""}"
+2026-09-15T00:00:00Z,2026-09-16T00:00:00Z,388.3318,388.3318,USD,AWS,Amazon Elastic Compute Cloud,Compute,prod,us-east-1,i-0a91f3c2web,i-0a91f3c2web,Usage,"{""team"": ""web"", ""env"": ""prod""}"
+2026-09-15T00:00:00Z,2026-09-16T00:00:00Z,261.3988,261.3988,USD,AWS,Amazon Elastic Compute Cloud,Compute,prod,us-east-1,i-07c1e9a4api,i-07c1e9a4api,Usage,"{""team"": ""api"", ""env"": ""prod""}"
+2026-09-15T00:00:00Z,2026-09-16T00:00:00Z,95.2349,95.2349,USD,AWS,Amazon Elastic Compute Cloud,Compute,staging,us-east-1,i-0bb2d11ci,i-0bb2d11ci,Usage,{}
+2026-09-15T00:00:00Z,2026-09-16T00:00:00Z,340.5937,340.5937,USD,AWS,Amazon Relational Database Service,Databases,prod,us-east-1,orders-db,orders-db,Usage,"{""team"": ""api"", ""env"": ""prod""}"
+2026-09-15T00:00:00Z,2026-09-16T00:00:00Z,116.8356,116.8356,USD,AWS,Amazon Simple Storage Service,Storage,prod,us-east-1,media-bucket,media-bucket,Usage,"{""team"": ""web"", ""env"": ""prod""}"
+2026-09-15T00:00:00Z,2026-09-16T00:00:00Z,63.0569,63.0569,USD,AWS,Amazon Simple Storage Service,Storage,prod,us-east-1,logs-archive,logs-archive,Usage,{}
+2026-09-15T00:00:00Z,2026-09-16T00:00:00Z,197.6346,197.6346,USD,Microsoft,Azure Kubernetes Service,Compute,analytics,brazilsouth,aks-ml,aks-ml,Usage,"{""team"": ""data"", ""env"": ""prod""}"
+2026-09-15T00:00:00Z,2026-09-16T00:00:00Z,143.8706,143.8706,USD,Google Cloud,BigQuery,Analytics,analytics,us,warehouse,warehouse,Usage,"{""team"": ""data"", ""env"": ""prod""}"
+2026-09-15T00:00:00Z,2026-09-16T00:00:00Z,43.0174,43.0174,USD,Google Cloud,Cloud Storage,Storage,analytics,us,datalake,datalake,Usage,"{""team"": ""data""}"
+2026-09-16T00:00:00Z,2026-09-17T00:00:00Z,390.2629,390.2629,USD,AWS,Amazon Elastic Compute Cloud,Compute,prod,us-east-1,i-0a91f3c2web,i-0a91f3c2web,Usage,"{""team"": ""web"", ""env"": ""prod""}"
+2026-09-16T00:00:00Z,2026-09-17T00:00:00Z,258.6943,258.6943,USD,AWS,Amazon Elastic Compute Cloud,Compute,prod,us-east-1,i-07c1e9a4api,i-07c1e9a4api,Usage,"{""team"": ""api"", ""env"": ""prod""}"
+2026-09-16T00:00:00Z,2026-09-17T00:00:00Z,91.1216,91.1216,USD,AWS,Amazon Elastic Compute Cloud,Compute,staging,us-east-1,i-0bb2d11ci,i-0bb2d11ci,Usage,{}
+2026-09-16T00:00:00Z,2026-09-17T00:00:00Z,332.1733,332.1733,USD,AWS,Amazon Relational Database Service,Databases,prod,us-east-1,orders-db,orders-db,Usage,"{""team"": ""api"", ""env"": ""prod""}"
+2026-09-16T00:00:00Z,2026-09-17T00:00:00Z,126.7150,126.7150,USD,AWS,Amazon Simple Storage Service,Storage,prod,us-east-1,media-bucket,media-bucket,Usage,"{""team"": ""web"", ""env"": ""prod""}"
+2026-09-16T00:00:00Z,2026-09-17T00:00:00Z,55.8992,55.8992,USD,AWS,Amazon Simple Storage Service,Storage,prod,us-east-1,logs-archive,logs-archive,Usage,{}
+2026-09-16T00:00:00Z,2026-09-17T00:00:00Z,187.3990,187.3990,USD,Microsoft,Azure Kubernetes Service,Compute,analytics,brazilsouth,aks-ml,aks-ml,Usage,"{""team"": ""data"", ""env"": ""prod""}"
+2026-09-16T00:00:00Z,2026-09-17T00:00:00Z,142.9067,142.9067,USD,Google Cloud,BigQuery,Analytics,analytics,us,warehouse,warehouse,Usage,"{""team"": ""data"", ""env"": ""prod""}"
+2026-09-16T00:00:00Z,2026-09-17T00:00:00Z,42.7999,42.7999,USD,Google Cloud,Cloud Storage,Storage,analytics,us,datalake,datalake,Usage,"{""team"": ""data""}"
+2026-09-17T00:00:00Z,2026-09-18T00:00:00Z,422.8808,422.8808,USD,AWS,Amazon Elastic Compute Cloud,Compute,prod,us-east-1,i-0a91f3c2web,i-0a91f3c2web,Usage,"{""team"": ""web"", ""env"": ""prod""}"
+2026-09-17T00:00:00Z,2026-09-18T00:00:00Z,279.7481,279.7481,USD,AWS,Amazon Elastic Compute Cloud,Compute,prod,us-east-1,i-07c1e9a4api,i-07c1e9a4api,Usage,"{""team"": ""api"", ""env"": ""prod""}"
+2026-09-17T00:00:00Z,2026-09-18T00:00:00Z,91.1086,91.1086,USD,AWS,Amazon Elastic Compute Cloud,Compute,staging,us-east-1,i-0bb2d11ci,i-0bb2d11ci,Usage,{}
+2026-09-17T00:00:00Z,2026-09-18T00:00:00Z,341.8273,341.8273,USD,AWS,Amazon Relational Database Service,Databases,prod,us-east-1,orders-db,orders-db,Usage,"{""team"": ""api"", ""env"": ""prod""}"
+2026-09-17T00:00:00Z,2026-09-18T00:00:00Z,110.5065,110.5065,USD,AWS,Amazon Simple Storage Service,Storage,prod,us-east-1,media-bucket,media-bucket,Usage,"{""team"": ""web"", ""env"": ""prod""}"
+2026-09-17T00:00:00Z,2026-09-18T00:00:00Z,62.4093,62.4093,USD,AWS,Amazon Simple Storage Service,Storage,prod,us-east-1,logs-archive,logs-archive,Usage,{}
+2026-09-17T00:00:00Z,2026-09-18T00:00:00Z,198.2094,198.2094,USD,Microsoft,Azure Kubernetes Service,Compute,analytics,brazilsouth,aks-ml,aks-ml,Usage,"{""team"": ""data"", ""env"": ""prod""}"
+2026-09-17T00:00:00Z,2026-09-18T00:00:00Z,131.1876,131.1876,USD,Google Cloud,BigQuery,Analytics,analytics,us,warehouse,warehouse,Usage,"{""team"": ""data"", ""env"": ""prod""}"
+2026-09-17T00:00:00Z,2026-09-18T00:00:00Z,44.4611,44.4611,USD,Google Cloud,Cloud Storage,Storage,analytics,us,datalake,datalake,Usage,"{""team"": ""data""}"
+2026-09-18T00:00:00Z,2026-09-19T00:00:00Z,388.7382,388.7382,USD,AWS,Amazon Elastic Compute Cloud,Compute,prod,us-east-1,i-0a91f3c2web,i-0a91f3c2web,Usage,"{""team"": ""web"", ""env"": ""prod""}"
+2026-09-18T00:00:00Z,2026-09-19T00:00:00Z,300.5169,300.5169,USD,AWS,Amazon Elastic Compute Cloud,Compute,prod,us-east-1,i-07c1e9a4api,i-07c1e9a4api,Usage,"{""team"": ""api"", ""env"": ""prod""}"
+2026-09-18T00:00:00Z,2026-09-19T00:00:00Z,95.2730,95.2730,USD,AWS,Amazon Elastic Compute Cloud,Compute,staging,us-east-1,i-0bb2d11ci,i-0bb2d11ci,Usage,{}
+2026-09-18T00:00:00Z,2026-09-19T00:00:00Z,309.4997,309.4997,USD,AWS,Amazon Relational Database Service,Databases,prod,us-east-1,orders-db,orders-db,Usage,"{""team"": ""api"", ""env"": ""prod""}"
+2026-09-18T00:00:00Z,2026-09-19T00:00:00Z,115.1846,115.1846,USD,AWS,Amazon Simple Storage Service,Storage,prod,us-east-1,media-bucket,media-bucket,Usage,"{""team"": ""web"", ""env"": ""prod""}"
+2026-09-18T00:00:00Z,2026-09-19T00:00:00Z,63.3440,63.3440,USD,AWS,Amazon Simple Storage Service,Storage,prod,us-east-1,logs-archive,logs-archive,Usage,{}
+2026-09-18T00:00:00Z,2026-09-19T00:00:00Z,188.6764,188.6764,USD,Microsoft,Azure Kubernetes Service,Compute,analytics,brazilsouth,aks-ml,aks-ml,Usage,"{""team"": ""data"", ""env"": ""prod""}"
+2026-09-18T00:00:00Z,2026-09-19T00:00:00Z,146.7517,146.7517,USD,Google Cloud,BigQuery,Analytics,analytics,us,warehouse,warehouse,Usage,"{""team"": ""data"", ""env"": ""prod""}"
+2026-09-18T00:00:00Z,2026-09-19T00:00:00Z,46.2066,46.2066,USD,Google Cloud,Cloud Storage,Storage,analytics,us,datalake,datalake,Usage,"{""team"": ""data""}"
+2026-09-19T00:00:00Z,2026-09-20T00:00:00Z,353.6046,353.6046,USD,AWS,Amazon Elastic Compute Cloud,Compute,prod,us-east-1,i-0a91f3c2web,i-0a91f3c2web,Usage,"{""team"": ""web"", ""env"": ""prod""}"
+2026-09-19T00:00:00Z,2026-09-20T00:00:00Z,227.4210,227.4210,USD,AWS,Amazon Elastic Compute Cloud,Compute,prod,us-east-1,i-07c1e9a4api,i-07c1e9a4api,Usage,"{""team"": ""api"", ""env"": ""prod""}"
+2026-09-19T00:00:00Z,2026-09-20T00:00:00Z,81.4725,81.4725,USD,AWS,Amazon Elastic Compute Cloud,Compute,staging,us-east-1,i-0bb2d11ci,i-0bb2d11ci,Usage,{}
+2026-09-19T00:00:00Z,2026-09-20T00:00:00Z,354.3865,354.3865,USD,AWS,Amazon Relational Database Service,Databases,prod,us-east-1,orders-db,orders-db,Usage,"{""team"": ""api"", ""env"": ""prod""}"
+2026-09-19T00:00:00Z,2026-09-20T00:00:00Z,122.1629,122.1629,USD,AWS,Amazon Simple Storage Service,Storage,prod,us-east-1,media-bucket,media-bucket,Usage,"{""team"": ""web"", ""env"": ""prod""}"
+2026-09-19T00:00:00Z,2026-09-20T00:00:00Z,62.1050,62.1050,USD,AWS,Amazon Simple Storage Service,Storage,prod,us-east-1,logs-archive,logs-archive,Usage,{}
+2026-09-19T00:00:00Z,2026-09-20T00:00:00Z,152.1162,152.1162,USD,Microsoft,Azure Kubernetes Service,Compute,analytics,brazilsouth,aks-ml,aks-ml,Usage,"{""team"": ""data"", ""env"": ""prod""}"
+2026-09-19T00:00:00Z,2026-09-20T00:00:00Z,147.4047,147.4047,USD,Google Cloud,BigQuery,Analytics,analytics,us,warehouse,warehouse,Usage,"{""team"": ""data"", ""env"": ""prod""}"
+2026-09-19T00:00:00Z,2026-09-20T00:00:00Z,45.3447,45.3447,USD,Google Cloud,Cloud Storage,Storage,analytics,us,datalake,datalake,Usage,"{""team"": ""data""}"
+2026-09-20T00:00:00Z,2026-09-21T00:00:00Z,348.8455,348.8455,USD,AWS,Amazon Elastic Compute Cloud,Compute,prod,us-east-1,i-0a91f3c2web,i-0a91f3c2web,Usage,"{""team"": ""web"", ""env"": ""prod""}"
+2026-09-20T00:00:00Z,2026-09-21T00:00:00Z,232.7326,232.7326,USD,AWS,Amazon Elastic Compute Cloud,Compute,prod,us-east-1,i-07c1e9a4api,i-07c1e9a4api,Usage,"{""team"": ""api"", ""env"": ""prod""}"
+2026-09-20T00:00:00Z,2026-09-21T00:00:00Z,75.6920,75.6920,USD,AWS,Amazon Elastic Compute Cloud,Compute,staging,us-east-1,i-0bb2d11ci,i-0bb2d11ci,Usage,{}
+2026-09-20T00:00:00Z,2026-09-21T00:00:00Z,320.6505,320.6505,USD,AWS,Amazon Relational Database Service,Databases,prod,us-east-1,orders-db,orders-db,Usage,"{""team"": ""api"", ""env"": ""prod""}"
+2026-09-20T00:00:00Z,2026-09-21T00:00:00Z,115.1470,115.1470,USD,AWS,Amazon Simple Storage Service,Storage,prod,us-east-1,media-bucket,media-bucket,Usage,"{""team"": ""web"", ""env"": ""prod""}"
+2026-09-20T00:00:00Z,2026-09-21T00:00:00Z,61.3215,61.3215,USD,AWS,Amazon Simple Storage Service,Storage,prod,us-east-1,logs-archive,logs-archive,Usage,{}
+2026-09-20T00:00:00Z,2026-09-21T00:00:00Z,158.4646,158.4646,USD,Microsoft,Azure Kubernetes Service,Compute,analytics,brazilsouth,aks-ml,aks-ml,Usage,"{""team"": ""data"", ""env"": ""prod""}"
+2026-09-20T00:00:00Z,2026-09-21T00:00:00Z,983.3398,983.3398,USD,Google Cloud,BigQuery,Analytics,analytics,us,warehouse,warehouse,Usage,"{""team"": ""data"", ""env"": ""prod""}"
+2026-09-20T00:00:00Z,2026-09-21T00:00:00Z,45.9126,45.9126,USD,Google Cloud,Cloud Storage,Storage,analytics,us,datalake,datalake,Usage,"{""team"": ""data""}"
+2026-09-21T00:00:00Z,2026-09-22T00:00:00Z,395.2136,395.2136,USD,AWS,Amazon Elastic Compute Cloud,Compute,prod,us-east-1,i-0a91f3c2web,i-0a91f3c2web,Usage,"{""team"": ""web"", ""env"": ""prod""}"
+2026-09-21T00:00:00Z,2026-09-22T00:00:00Z,261.0713,261.0713,USD,AWS,Amazon Elastic Compute Cloud,Compute,prod,us-east-1,i-07c1e9a4api,i-07c1e9a4api,Usage,"{""team"": ""api"", ""env"": ""prod""}"
+2026-09-21T00:00:00Z,2026-09-22T00:00:00Z,91.7431,91.7431,USD,AWS,Amazon Elastic Compute Cloud,Compute,staging,us-east-1,i-0bb2d11ci,i-0bb2d11ci,Usage,{}
+2026-09-21T00:00:00Z,2026-09-22T00:00:00Z,321.3187,321.3187,USD,AWS,Amazon Relational Database Service,Databases,prod,us-east-1,orders-db,orders-db,Usage,"{""team"": ""api"", ""env"": ""prod""}"
+2026-09-21T00:00:00Z,2026-09-22T00:00:00Z,116.5384,116.5384,USD,AWS,Amazon Simple Storage Service,Storage,prod,us-east-1,media-bucket,media-bucket,Usage,"{""team"": ""web"", ""env"": ""prod""}"
+2026-09-21T00:00:00Z,2026-09-22T00:00:00Z,60.3855,60.3855,USD,AWS,Amazon Simple Storage Service,Storage,prod,us-east-1,logs-archive,logs-archive,Usage,{}
+2026-09-21T00:00:00Z,2026-09-22T00:00:00Z,179.0066,179.0066,USD,Microsoft,Azure Kubernetes Service,Compute,analytics,brazilsouth,aks-ml,aks-ml,Usage,"{""team"": ""data"", ""env"": ""prod""}"
+2026-09-21T00:00:00Z,2026-09-22T00:00:00Z,133.9803,133.9803,USD,Google Cloud,BigQuery,Analytics,analytics,us,warehouse,warehouse,Usage,"{""team"": ""data"", ""env"": ""prod""}"
+2026-09-21T00:00:00Z,2026-09-22T00:00:00Z,46.3964,46.3964,USD,Google Cloud,Cloud Storage,Storage,analytics,us,datalake,datalake,Usage,"{""team"": ""data""}"
+2026-09-22T00:00:00Z,2026-09-23T00:00:00Z,423.5411,423.5411,USD,AWS,Amazon Elastic Compute Cloud,Compute,prod,us-east-1,i-0a91f3c2web,i-0a91f3c2web,Usage,"{""team"": ""web"", ""env"": ""prod""}"
+2026-09-22T00:00:00Z,2026-09-23T00:00:00Z,260.4775,260.4775,USD,AWS,Amazon Elastic Compute Cloud,Compute,prod,us-east-1,i-07c1e9a4api,i-07c1e9a4api,Usage,"{""team"": ""api"", ""env"": ""prod""}"
+2026-09-22T00:00:00Z,2026-09-23T00:00:00Z,93.5955,93.5955,USD,AWS,Amazon Elastic Compute Cloud,Compute,staging,us-east-1,i-0bb2d11ci,i-0bb2d11ci,Usage,{}
+2026-09-22T00:00:00Z,2026-09-23T00:00:00Z,335.7737,335.7737,USD,AWS,Amazon Relational Database Service,Databases,prod,us-east-1,orders-db,orders-db,Usage,"{""team"": ""api"", ""env"": ""prod""}"
+2026-09-22T00:00:00Z,2026-09-23T00:00:00Z,118.3829,118.3829,USD,AWS,Amazon Simple Storage Service,Storage,prod,us-east-1,media-bucket,media-bucket,Usage,"{""team"": ""web"", ""env"": ""prod""}"
+2026-09-22T00:00:00Z,2026-09-23T00:00:00Z,57.1856,57.1856,USD,AWS,Amazon Simple Storage Service,Storage,prod,us-east-1,logs-archive,logs-archive,Usage,{}
+2026-09-22T00:00:00Z,2026-09-23T00:00:00Z,187.5724,187.5724,USD,Microsoft,Azure Kubernetes Service,Compute,analytics,brazilsouth,aks-ml,aks-ml,Usage,"{""team"": ""data"", ""env"": ""prod""}"
+2026-09-22T00:00:00Z,2026-09-23T00:00:00Z,149.0684,149.0684,USD,Google Cloud,BigQuery,Analytics,analytics,us,warehouse,warehouse,Usage,"{""team"": ""data"", ""env"": ""prod""}"
+2026-09-22T00:00:00Z,2026-09-23T00:00:00Z,45.6054,45.6054,USD,Google Cloud,Cloud Storage,Storage,analytics,us,datalake,datalake,Usage,"{""team"": ""data""}"
+2026-09-23T00:00:00Z,2026-09-24T00:00:00Z,422.8263,422.8263,USD,AWS,Amazon Elastic Compute Cloud,Compute,prod,us-east-1,i-0a91f3c2web,i-0a91f3c2web,Usage,"{""team"": ""web"", ""env"": ""prod""}"
+2026-09-23T00:00:00Z,2026-09-24T00:00:00Z,295.9816,295.9816,USD,AWS,Amazon Elastic Compute Cloud,Compute,prod,us-east-1,i-07c1e9a4api,i-07c1e9a4api,Usage,"{""team"": ""api"", ""env"": ""prod""}"
+2026-09-23T00:00:00Z,2026-09-24T00:00:00Z,99.0370,99.0370,USD,AWS,Amazon Elastic Compute Cloud,Compute,staging,us-east-1,i-0bb2d11ci,i-0bb2d11ci,Usage,{}
+2026-09-23T00:00:00Z,2026-09-24T00:00:00Z,327.1171,327.1171,USD,AWS,Amazon Relational Database Service,Databases,prod,us-east-1,orders-db,orders-db,Usage,"{""team"": ""api"", ""env"": ""prod""}"
+2026-09-23T00:00:00Z,2026-09-24T00:00:00Z,110.5132,110.5132,USD,AWS,Amazon Simple Storage Service,Storage,prod,us-east-1,media-bucket,media-bucket,Usage,"{""team"": ""web"", ""env"": ""prod""}"
+2026-09-23T00:00:00Z,2026-09-24T00:00:00Z,58.5769,58.5769,USD,AWS,Amazon Simple Storage Service,Storage,prod,us-east-1,logs-archive,logs-archive,Usage,{}
+2026-09-23T00:00:00Z,2026-09-24T00:00:00Z,197.7056,197.7056,USD,Microsoft,Azure Kubernetes Service,Compute,analytics,brazilsouth,aks-ml,aks-ml,Usage,"{""team"": ""data"", ""env"": ""prod""}"
+2026-09-23T00:00:00Z,2026-09-24T00:00:00Z,147.9172,147.9172,USD,Google Cloud,BigQuery,Analytics,analytics,us,warehouse,warehouse,Usage,"{""team"": ""data"", ""env"": ""prod""}"
+2026-09-23T00:00:00Z,2026-09-24T00:00:00Z,48.2647,48.2647,USD,Google Cloud,Cloud Storage,Storage,analytics,us,datalake,datalake,Usage,"{""team"": ""data""}"
+2026-09-24T00:00:00Z,2026-09-25T00:00:00Z,404.6878,404.6878,USD,AWS,Amazon Elastic Compute Cloud,Compute,prod,us-east-1,i-0a91f3c2web,i-0a91f3c2web,Usage,"{""team"": ""web"", ""env"": ""prod""}"
+2026-09-24T00:00:00Z,2026-09-25T00:00:00Z,291.0887,291.0887,USD,AWS,Amazon Elastic Compute Cloud,Compute,prod,us-east-1,i-07c1e9a4api,i-07c1e9a4api,Usage,"{""team"": ""api"", ""env"": ""prod""}"
+2026-09-24T00:00:00Z,2026-09-25T00:00:00Z,95.7012,95.7012,USD,AWS,Amazon Elastic Compute Cloud,Compute,staging,us-east-1,i-0bb2d11ci,i-0bb2d11ci,Usage,{}
+2026-09-24T00:00:00Z,2026-09-25T00:00:00Z,339.0096,339.0096,USD,AWS,Amazon Relational Database Service,Databases,prod,us-east-1,orders-db,orders-db,Usage,"{""team"": ""api"", ""env"": ""prod""}"
+2026-09-24T00:00:00Z,2026-09-25T00:00:00Z,114.6343,114.6343,USD,AWS,Amazon Simple Storage Service,Storage,prod,us-east-1,media-bucket,media-bucket,Usage,"{""team"": ""web"", ""env"": ""prod""}"
+2026-09-24T00:00:00Z,2026-09-25T00:00:00Z,57.3064,57.3064,USD,AWS,Amazon Simple Storage Service,Storage,prod,us-east-1,logs-archive,logs-archive,Usage,{}
+2026-09-24T00:00:00Z,2026-09-25T00:00:00Z,188.0494,188.0494,USD,Microsoft,Azure Kubernetes Service,Compute,analytics,brazilsouth,aks-ml,aks-ml,Usage,"{""team"": ""data"", ""env"": ""prod""}"
+2026-09-24T00:00:00Z,2026-09-25T00:00:00Z,129.4502,129.4502,USD,Google Cloud,BigQuery,Analytics,analytics,us,warehouse,warehouse,Usage,"{""team"": ""data"", ""env"": ""prod""}"
+2026-09-24T00:00:00Z,2026-09-25T00:00:00Z,43.8201,43.8201,USD,Google Cloud,Cloud Storage,Storage,analytics,us,datalake,datalake,Usage,"{""team"": ""data""}"
+2026-09-25T00:00:00Z,2026-09-26T00:00:00Z,421.7517,421.7517,USD,AWS,Amazon Elastic Compute Cloud,Compute,prod,us-east-1,i-0a91f3c2web,i-0a91f3c2web,Usage,"{""team"": ""web"", ""env"": ""prod""}"
+2026-09-25T00:00:00Z,2026-09-26T00:00:00Z,275.7134,275.7134,USD,AWS,Amazon Elastic Compute Cloud,Compute,prod,us-east-1,i-07c1e9a4api,i-07c1e9a4api,Usage,"{""team"": ""api"", ""env"": ""prod""}"
+2026-09-25T00:00:00Z,2026-09-26T00:00:00Z,89.9087,89.9087,USD,AWS,Amazon Elastic Compute Cloud,Compute,staging,us-east-1,i-0bb2d11ci,i-0bb2d11ci,Usage,{}
+2026-09-25T00:00:00Z,2026-09-26T00:00:00Z,331.7599,331.7599,USD,AWS,Amazon Relational Database Service,Databases,prod,us-east-1,orders-db,orders-db,Usage,"{""team"": ""api"", ""env"": ""prod""}"
+2026-09-25T00:00:00Z,2026-09-26T00:00:00Z,112.8505,112.8505,USD,AWS,Amazon Simple Storage Service,Storage,prod,us-east-1,media-bucket,media-bucket,Usage,"{""team"": ""web"", ""env"": ""prod""}"
+2026-09-25T00:00:00Z,2026-09-26T00:00:00Z,61.1737,61.1737,USD,AWS,Amazon Simple Storage Service,Storage,prod,us-east-1,logs-archive,logs-archive,Usage,{}
+2026-09-25T00:00:00Z,2026-09-26T00:00:00Z,175.6198,175.6198,USD,Microsoft,Azure Kubernetes Service,Compute,analytics,brazilsouth,aks-ml,aks-ml,Usage,"{""team"": ""data"", ""env"": ""prod""}"
+2026-09-25T00:00:00Z,2026-09-26T00:00:00Z,137.6261,137.6261,USD,Google Cloud,BigQuery,Analytics,analytics,us,warehouse,warehouse,Usage,"{""team"": ""data"", ""env"": ""prod""}"
+2026-09-25T00:00:00Z,2026-09-26T00:00:00Z,45.4636,45.4636,USD,Google Cloud,Cloud Storage,Storage,analytics,us,datalake,datalake,Usage,"{""team"": ""data""}"
+2026-09-26T00:00:00Z,2026-09-27T00:00:00Z,303.1823,303.1823,USD,AWS,Amazon Elastic Compute Cloud,Compute,prod,us-east-1,i-0a91f3c2web,i-0a91f3c2web,Usage,"{""team"": ""web"", ""env"": ""prod""}"
+2026-09-26T00:00:00Z,2026-09-27T00:00:00Z,229.1161,229.1161,USD,AWS,Amazon Elastic Compute Cloud,Compute,prod,us-east-1,i-07c1e9a4api,i-07c1e9a4api,Usage,"{""team"": ""api"", ""env"": ""prod""}"
+2026-09-26T00:00:00Z,2026-09-27T00:00:00Z,71.5701,71.5701,USD,AWS,Amazon Elastic Compute Cloud,Compute,staging,us-east-1,i-0bb2d11ci,i-0bb2d11ci,Usage,{}
+2026-09-26T00:00:00Z,2026-09-27T00:00:00Z,331.4562,331.4562,USD,AWS,Amazon Relational Database Service,Databases,prod,us-east-1,orders-db,orders-db,Usage,"{""team"": ""api"", ""env"": ""prod""}"
+2026-09-26T00:00:00Z,2026-09-27T00:00:00Z,111.3655,111.3655,USD,AWS,Amazon Simple Storage Service,Storage,prod,us-east-1,media-bucket,media-bucket,Usage,"{""team"": ""web"", ""env"": ""prod""}"
+2026-09-26T00:00:00Z,2026-09-27T00:00:00Z,58.8394,58.8394,USD,AWS,Amazon Simple Storage Service,Storage,prod,us-east-1,logs-archive,logs-archive,Usage,{}
+2026-09-26T00:00:00Z,2026-09-27T00:00:00Z,144.9876,144.9876,USD,Microsoft,Azure Kubernetes Service,Compute,analytics,brazilsouth,aks-ml,aks-ml,Usage,"{""team"": ""data"", ""env"": ""prod""}"
+2026-09-26T00:00:00Z,2026-09-27T00:00:00Z,136.1213,136.1213,USD,Google Cloud,BigQuery,Analytics,analytics,us,warehouse,warehouse,Usage,"{""team"": ""data"", ""env"": ""prod""}"
+2026-09-26T00:00:00Z,2026-09-27T00:00:00Z,46.8809,46.8809,USD,Google Cloud,Cloud Storage,Storage,analytics,us,datalake,datalake,Usage,"{""team"": ""data""}"
+2026-09-27T00:00:00Z,2026-09-28T00:00:00Z,321.6565,321.6565,USD,AWS,Amazon Elastic Compute Cloud,Compute,prod,us-east-1,i-0a91f3c2web,i-0a91f3c2web,Usage,"{""team"": ""web"", ""env"": ""prod""}"
+2026-09-27T00:00:00Z,2026-09-28T00:00:00Z,233.0320,233.0320,USD,AWS,Amazon Elastic Compute Cloud,Compute,prod,us-east-1,i-07c1e9a4api,i-07c1e9a4api,Usage,"{""team"": ""api"", ""env"": ""prod""}"
+2026-09-27T00:00:00Z,2026-09-28T00:00:00Z,80.0362,80.0362,USD,AWS,Amazon Elastic Compute Cloud,Compute,staging,us-east-1,i-0bb2d11ci,i-0bb2d11ci,Usage,{}
+2026-09-27T00:00:00Z,2026-09-28T00:00:00Z,320.2812,320.2812,USD,AWS,Amazon Relational Database Service,Databases,prod,us-east-1,orders-db,orders-db,Usage,"{""team"": ""api"", ""env"": ""prod""}"
+2026-09-27T00:00:00Z,2026-09-28T00:00:00Z,111.9726,111.9726,USD,AWS,Amazon Simple Storage Service,Storage,prod,us-east-1,media-bucket,media-bucket,Usage,"{""team"": ""web"", ""env"": ""prod""}"
+2026-09-27T00:00:00Z,2026-09-28T00:00:00Z,55.3861,55.3861,USD,AWS,Amazon Simple Storage Service,Storage,prod,us-east-1,logs-archive,logs-archive,Usage,{}
+2026-09-27T00:00:00Z,2026-09-28T00:00:00Z,152.9587,152.9587,USD,Microsoft,Azure Kubernetes Service,Compute,analytics,brazilsouth,aks-ml,aks-ml,Usage,"{""team"": ""data"", ""env"": ""prod""}"
+2026-09-27T00:00:00Z,2026-09-28T00:00:00Z,151.1979,151.1979,USD,Google Cloud,BigQuery,Analytics,analytics,us,warehouse,warehouse,Usage,"{""team"": ""data"", ""env"": ""prod""}"
+2026-09-27T00:00:00Z,2026-09-28T00:00:00Z,43.9197,43.9197,USD,Google Cloud,Cloud Storage,Storage,analytics,us,datalake,datalake,Usage,"{""team"": ""data""}"
+2026-09-28T00:00:00Z,2026-09-29T00:00:00Z,419.8495,419.8495,USD,AWS,Amazon Elastic Compute Cloud,Compute,prod,us-east-1,i-0a91f3c2web,i-0a91f3c2web,Usage,"{""team"": ""web"", ""env"": ""prod""}"
+2026-09-28T00:00:00Z,2026-09-29T00:00:00Z,292.5992,292.5992,USD,AWS,Amazon Elastic Compute Cloud,Compute,prod,us-east-1,i-07c1e9a4api,i-07c1e9a4api,Usage,"{""team"": ""api"", ""env"": ""prod""}"
+2026-09-28T00:00:00Z,2026-09-29T00:00:00Z,97.3067,97.3067,USD,AWS,Amazon Elastic Compute Cloud,Compute,staging,us-east-1,i-0bb2d11ci,i-0bb2d11ci,Usage,{}
+2026-09-28T00:00:00Z,2026-09-29T00:00:00Z,347.0659,347.0659,USD,AWS,Amazon Relational Database Service,Databases,prod,us-east-1,orders-db,orders-db,Usage,"{""team"": ""api"", ""env"": ""prod""}"
+2026-09-28T00:00:00Z,2026-09-29T00:00:00Z,128.6325,128.6325,USD,AWS,Amazon Simple Storage Service,Storage,prod,us-east-1,media-bucket,media-bucket,Usage,"{""team"": ""web"", ""env"": ""prod""}"
+2026-09-28T00:00:00Z,2026-09-29T00:00:00Z,57.1139,57.1139,USD,AWS,Amazon Simple Storage Service,Storage,prod,us-east-1,logs-archive,logs-archive,Usage,{}
+2026-09-28T00:00:00Z,2026-09-29T00:00:00Z,175.4196,175.4196,USD,Microsoft,Azure Kubernetes Service,Compute,analytics,brazilsouth,aks-ml,aks-ml,Usage,"{""team"": ""data"", ""env"": ""prod""}"
+2026-09-28T00:00:00Z,2026-09-29T00:00:00Z,132.2134,132.2134,USD,Google Cloud,BigQuery,Analytics,analytics,us,warehouse,warehouse,Usage,"{""team"": ""data"", ""env"": ""prod""}"
+2026-09-28T00:00:00Z,2026-09-29T00:00:00Z,42.3088,42.3088,USD,Google Cloud,Cloud Storage,Storage,analytics,us,datalake,datalake,Usage,"{""team"": ""data""}"
+2026-09-29T00:00:00Z,2026-09-30T00:00:00Z,421.1165,421.1165,USD,AWS,Amazon Elastic Compute Cloud,Compute,prod,us-east-1,i-0a91f3c2web,i-0a91f3c2web,Usage,"{""team"": ""web"", ""env"": ""prod""}"
+2026-09-29T00:00:00Z,2026-09-30T00:00:00Z,282.8658,282.8658,USD,AWS,Amazon Elastic Compute Cloud,Compute,prod,us-east-1,i-07c1e9a4api,i-07c1e9a4api,Usage,"{""team"": ""api"", ""env"": ""prod""}"
+2026-09-29T00:00:00Z,2026-09-30T00:00:00Z,90.7131,90.7131,USD,AWS,Amazon Elastic Compute Cloud,Compute,staging,us-east-1,i-0bb2d11ci,i-0bb2d11ci,Usage,{}
+2026-09-29T00:00:00Z,2026-09-30T00:00:00Z,344.1435,344.1435,USD,AWS,Amazon Relational Database Service,Databases,prod,us-east-1,orders-db,orders-db,Usage,"{""team"": ""api"", ""env"": ""prod""}"
+2026-09-29T00:00:00Z,2026-09-30T00:00:00Z,125.1244,125.1244,USD,AWS,Amazon Simple Storage Service,Storage,prod,us-east-1,media-bucket,media-bucket,Usage,"{""team"": ""web"", ""env"": ""prod""}"
+2026-09-29T00:00:00Z,2026-09-30T00:00:00Z,56.8108,56.8108,USD,AWS,Amazon Simple Storage Service,Storage,prod,us-east-1,logs-archive,logs-archive,Usage,{}
+2026-09-29T00:00:00Z,2026-09-30T00:00:00Z,193.2603,193.2603,USD,Microsoft,Azure Kubernetes Service,Compute,analytics,brazilsouth,aks-ml,aks-ml,Usage,"{""team"": ""data"", ""env"": ""prod""}"
+2026-09-29T00:00:00Z,2026-09-30T00:00:00Z,145.5535,145.5535,USD,Google Cloud,BigQuery,Analytics,analytics,us,warehouse,warehouse,Usage,"{""team"": ""data"", ""env"": ""prod""}"
+2026-09-29T00:00:00Z,2026-09-30T00:00:00Z,42.2246,42.2246,USD,Google Cloud,Cloud Storage,Storage,analytics,us,datalake,datalake,Usage,"{""team"": ""data""}"
